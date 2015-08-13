@@ -4,6 +4,17 @@
 rm(list=ls())
 gc()
 
+# Set the working directory to the repo:
+setwd("~/Stats/ShearerBot")
+
+# set the week and some local directories to store output:
+week <- "02"
+ptp.out.dir <- "~/Stats/ptp/ptp-raw"
+betfair.out.dir <- "~/Stats/ptp/betfair-raw"
+betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
+                                   paste0(week, ".txt"))
+summary.file.path <- "~/Stats/ptp/summary"
+
 # utility functions
 su <- function(x) sort(unique(x))
 lu <- function(x) length(unique(x))
@@ -13,25 +24,17 @@ suppressWarnings(library(RCurl, quietly=TRUE, warn.conflicts=FALSE,
                  verbose=FALSE))
 suppressWarnings(library(XML, quietly=TRUE, warn.conflicts=FALSE, 
                  verbose=FALSE))
+library(knitr)
 
 # source the get.table() function:
 source("get_table.R")
 source("download_betfair.R")
-
-# set the week and some local directories to store output:
-week <- "01"
-ptp.out.dir <- "~/Stats/ptp/ptp-raw"
-betfair.out.dir <- "~/Stats/ptp/betfair-raw"
-betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
-                                   paste0(week, ".txt"))
-summary.file.path <- "~/Stats/ptp/summary"
 
 # read in the week from standard input:
 #f <- file("stdin")
 #open(f)
 #week <- readLines(f, n=1)
 #close(f)
-week <- "01"
 
 # Get the table of outcomes from predictthepremiership.com:
 if (week == "380") {  # custom vecor of ids when necessary
@@ -222,6 +225,22 @@ output.table
 # Go to the web and input these predictions
 
 
+prediction.summary <- data.frame(Week = rep(week, n.games), 
+                                 Time = rep(Sys.time(), n.games), 
+                                 output.table, stringsAsFactors = FALSE)
+
+# Cat the results to the README:
+cat("# ShearerBot", file = "README.md")
+cat("A program to make my predictions for \"Predict the Premiership\"", 
+    file = "README.md", append = TRUE)
+cat("\n", file = "README.md", append = TRUE)
+cat("Latest Predictions:", file = "README.md", append = TRUE)
+cat("\n", file = "README.md", append = TRUE)
+kb <- kable(prediction.summary)
+cat(kb, file = "README.md", append = TRUE)
+
+
+
 # Old stuff to print out plain text summary
 # Keep here for now in case we want to do this again:
 if (FALSE) {
@@ -233,7 +252,8 @@ for (i in 1:n.games) {
   if (y.new[[i]]$n > 0) {
     # penalized max expected (using 0.3 seems to choose safer bets, 
     # only giving up a bit of expected points)
-    o <- order(y.new[[i]]$summary[, "Expected"] - 0.3*y.new[[i]]$summary[, "SD"], decreasing = TRUE)  	
+    o <- order(y.new[[i]]$summary[, "Expected"] - 
+               0.3*y.new[[i]]$summary[, "SD"], decreasing = TRUE)  	
     w2 <- o[1]
     # the old way, just maximizing expected points:
     w <- which.max(y.new[[i]]$summary[, "Expected"])
