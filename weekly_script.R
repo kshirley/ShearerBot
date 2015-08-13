@@ -228,6 +228,8 @@ output.table
 prediction.summary <- data.frame(Week = rep(week, n.games), 
                                  Time = rep(Sys.time(), n.games), 
                                  output.table, stringsAsFactors = FALSE)
+names(prediction.summary)[7] <- "% Picked"
+kb <- kable(prediction.summary)
 
 # Cat the results to the README:
 cat("# ShearerBot", file = "README.md")
@@ -235,10 +237,14 @@ cat("\n", file = "README.md", append = TRUE)
 cat("A program to make my predictions for \"Predict the Premiership\"", 
     file = "README.md", append = TRUE)
 cat("\n", file = "README.md", append = TRUE)
+cat("\n", file = "README.md", append = TRUE)
 cat("Latest Predictions:", file = "README.md", append = TRUE)
 cat("\n", file = "README.md", append = TRUE)
-kb <- kable(prediction.summary)
-cat(capture.output(print(kb)), file = "README.md", append = TRUE)
+cat("<sub>", file = "README.md", append = TRUE)
+cat("\n", file = "README.md", append = TRUE)
+cat(capture.output(print(kb)), sep = "\n", file = "README.md", append = TRUE)
+cat("\n", file = "README.md", append = TRUE)
+cat("</sub>", file = "README.md", append = TRUE)
 
 
 

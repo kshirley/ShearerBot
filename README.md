@@ -1,6 +1,8 @@
 # ShearerBot
 A program to make my predictions for "Predict the Premiership"
+
 Latest Predictions:
+<sub>
 
 
 |Week |Time                |Team1          |Team2       | Score1| Score2| % Picked| Probability| Expected|    SD|    n|
@@ -15,3 +17,5 @@ Latest Predictions:
 |02   |2015-08-12 23:39:51 |Tottenham      |Stoke       |      0|      1|    0.028|       0.065|    0.868| 1.915| 2610|
 |02   |2015-08-12 23:39:51 |Watford        |West Brom   |      1|      0|    0.122|       0.119|    0.663| 0.969| 2605|
 |02   |2015-08-12 23:39:51 |West Ham       |Leicester   |      0|      1|    0.027|       0.076|    1.200| 2.072| 2606|
+
+</sub>
