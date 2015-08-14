@@ -225,20 +225,22 @@ output.table
 # Go to the web and input these predictions
 
 
-prediction.summary <- data.frame(Week = rep(week, n.games), 
-                                 Time = rep(Sys.time(), n.games), 
-                                 output.table, stringsAsFactors = FALSE)
-names(prediction.summary)[7] <- "% Picked"
-kb <- kable(prediction.summary)
+#prediction.summary <- data.frame(Week = rep(week, n.games), 
+#                                 Time = rep(Sys.time(), n.games), 
+#                                 output.table, stringsAsFactors = FALSE)
+#names(prediction.summary)[7] <- "% Picked"
+
+kb <- kable(output.table)
 
 # Cat the results to the README:
-cat("# ShearerBot", file = "README.md")
-cat("\n", file = "README.md", append = TRUE)
+cat("# ShearerBot\n", file = "README.md")
 cat("A program to make my predictions for \"Predict the Premiership\"", 
     file = "README.md", append = TRUE)
-cat("\n", file = "README.md", append = TRUE)
-cat("\n", file = "README.md", append = TRUE)
-cat("Latest Predictions:", file = "README.md", append = TRUE)
+cat("\n\n", file = "README.md", append = TRUE)
+cat("Latest Predictions:\n\n", file = "README.md", append = TRUE)
+cat(paste0("Week = ", as.numeric(week), "\n"), file = 
+             "README.md", append =TRUE)
+cat(as.character(Sys.time()), file = "README.md", append = TRUE)
 cat("\n", file = "README.md", append = TRUE)
 cat("<sub>", file = "README.md", append = TRUE)
 cat("\n", file = "README.md", append = TRUE)
