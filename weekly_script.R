@@ -60,30 +60,6 @@ for (i in 1:lb) {
                                    out.dir = betfair.out.dir)
 }
 
-
-# old code for trying a few times since the downloads were buggy sometimes
-# last year:
-
-# Second try:
-#teams <- sapply(betfair, function(x) x$teams)
-#w <- which(teams[1, ] == "none")
-
-#if (length(w) > 0) {
-  #print(w)
-#  for (i in w) {
-#    betfair[[i]] <- download.betfair(betfair.id[i], week)
-#  }
-  # Third and last try:
-#  tms <- sapply(betfair, function(x) x$teams)
-#  w2 <- which(tms[1, ] == "none")
-#  if (length(w2) > 0) {
-  	#print(w2)
-#  	for (i in w2) {
-#  	  betfair[[i]] <- download.betfair(betfair.id[i], week)
-#  	}
-#  }
-#}  
-
 # get a new list summarizing the strategy for this weeks' matches:
 y.new <- as.list(rep(NA, n.games))
 
