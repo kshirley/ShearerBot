@@ -183,14 +183,22 @@ save(y.new, file = file.path(summary.file.path, summary.file))
 
 # function to extract highest expected points for each game:
 get.max <- function(x) {
-  tmp <- x$summary[which.max(x$summary[, "Expected"]), ]  
-  df <- data.frame(Team1 = gsub(".", " ", names(tmp)[1], fixed = T), 
-                   Team2 = gsub(".", " ", names(tmp)[2], fixed = T), 
-                   tmp, 
-                   n = x$n, stringsAsFactors = FALSE)
-  names(df)[3:4] <- c("Score1", "Score2")
-  for (i in 6:8) df[, i] <- round(df[, i], 3)
-  names(df)[5] <- "% Picked"
+  if (!is.null(x$summary)) {
+    tmp <- x$summary[which.max(x$summary[, "Expected"]), ]  
+    df <- data.frame(Team1 = gsub(".", " ", names(tmp)[1], fixed = T), 
+                     Team2 = gsub(".", " ", names(tmp)[2], fixed = T), 
+                     tmp, 
+                     n = x$n, stringsAsFactors = FALSE)
+    names(df)[3:4] <- c("Score1", "Score2")
+    for (i in 6:8) df[, i] <- round(df[, i], 3)
+    names(df)[5] <- "% Picked"
+  } else {
+  	df <- data.frame(Team1 = x$teams[1], Team2 = x$teams[2], 
+  	                 Score1 = NA, Score2 = NA, picked = NA, 
+  	                 Probability = NA, Expected = NA, SD = NA, n = NA, 
+  	                 stringsAsFactors = FALSE)
+    names(df)[5] <- "% Picked"
+  }
   df
 }
 
