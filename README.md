@@ -3,24 +3,24 @@ A program to make my predictions for "Predict the Premiership"
 
 Latest Predictions:
 
-Week = 2
+Week = 3
 
-2015-08-15 13:52:46
+2015-08-19 16:15:42
 <sub>
 
 
 |Team1          |Team2       |Score1 |Score2 |% Picked |Probability |Expected |SD    |n    |
 |:--------------|:-----------|:------|:------|:--------|:-----------|:--------|:-----|:----|
-|Aston Villa    |Man Utd     |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Crystal Palace |Arsenal     |0      |0      |0.014    |0.068       |1.01     |1.977 |4634 |
-|Liverpool      |Bournemouth |1      |1      |0.035    |0.095       |1.005    |2.158 |4632 |
-|Man City       |Chelsea     |0      |2      |0.01     |0.043       |1.026    |1.795 |4634 |
-|Southampton    |Everton     |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Sunderland     |Norwich     |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Swansea        |Newcastle   |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Tottenham      |Stoke       |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Watford        |West Brom   |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|West Ham       |Leicester   |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
-|Total          |            |-      |-      |-        |-           |NA       |NA    |NA   |
+|Arsenal        |Liverpool   |0      |1      |0.024    |0.056       |0.849    |1.84  |2459 |
+|Crystal Palace |Aston Villa |0      |1      |0.047    |0.077       |0.984    |2.032 |2475 |
+|Everton        |Man City    |0      |1      |0.038    |0.09        |0.947    |1.36  |2456 |
+|Leicester      |Tottenham   |1      |0      |0.045    |0.085       |0.678    |1.382 |2471 |
+|Man Utd        |Newcastle   |2      |0      |0.389    |0.131       |0.963    |0.905 |2489 |
+|Norwich        |Stoke       |2      |0      |0.043    |0.077       |0.723    |1.32  |2462 |
+|Sunderland     |Swansea     |0      |0      |0.04     |0.091       |1.15     |2.165 |2462 |
+|Watford        |Southampton |2      |0      |0.029    |0.063       |1.283    |1.995 |2454 |
+|West Brom      |Chelsea     |0      |0      |0.021    |0.087       |1.078    |2.121 |2457 |
+|West Ham       |Bournemouth |0      |1      |0.031    |0.085       |1.194    |2.127 |2463 |
+|Total          |            |-      |-      |-        |-           |9.849    |5.61  |2489 |
 
 </sub>
