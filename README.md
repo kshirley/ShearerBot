@@ -5,22 +5,22 @@ Latest Predictions:
 
 Week = 4
 
-2015-08-27 20:31:50
+2015-08-28 21:52:30
 <sub>
 
 
 |Team1       |Team2          |Score1 |Score2 |% Picked |Probability |Expected |SD    |n    |
 |:-----------|:--------------|:------|:------|:--------|:-----------|:--------|:-----|:----|
-|Aston Villa |Sunderland     |0      |1      |0.032    |0.076       |0.924    |2.015 |2804 |
-|Bournemouth |Leicester      |2      |0      |0.036    |0.075       |0.743    |1.298 |2805 |
-|Chelsea     |Crystal Palace |1      |1      |0.045    |0.088       |0.941    |2.095 |2805 |
-|Liverpool   |West Ham       |2      |0      |0.315    |0.129       |0.962    |0.901 |2807 |
-|Man City    |Watford        |2      |1      |0.043    |0.084       |1.152    |1.227 |2806 |
-|Newcastle   |Arsenal        |0      |0      |0.022    |0.063       |0.976    |1.937 |2810 |
-|Southampton |Norwich        |0      |1      |0.041    |0.075       |1.047    |2.039 |2802 |
-|Stoke       |West Brom      |0      |1      |0.039    |0.084       |1.061    |2.097 |2802 |
-|Swansea     |Man Utd        |0      |1      |0.068    |0.108       |0.659    |0.934 |2802 |
-|Tottenham   |Everton        |3      |1      |0.021    |0.054       |0.712    |1.137 |2802 |
-|Total       |               |-      |-      |-        |-           |9.177    |5.19  |2810 |
+|Aston Villa |Sunderland     |0      |1      |0.035    |0.084       |1.022    |2.094 |3897 |
+|Bournemouth |Leicester      |2      |0      |0.035    |0.074       |0.747    |1.289 |3899 |
+|Chelsea     |Crystal Palace |1      |1      |0.046    |0.087       |0.933    |2.088 |3900 |
+|Liverpool   |West Ham       |2      |0      |0.325    |0.126       |0.963    |0.891 |3901 |
+|Man City    |Watford        |2      |1      |0.04     |0.084       |1.151    |1.223 |3901 |
+|Newcastle   |Arsenal        |0      |0      |0.022    |0.064       |0.991    |1.942 |3901 |
+|Southampton |Norwich        |0      |1      |0.049    |0.074       |1.034    |2.029 |3893 |
+|Stoke       |West Brom      |0      |1      |0.04     |0.083       |1.036    |2.085 |3898 |
+|Swansea     |Man Utd        |0      |1      |0.069    |0.107       |0.654    |0.932 |3893 |
+|Tottenham   |Everton        |2      |0      |0.049    |0.081       |0.822    |1.332 |3898 |
+|Total       |               |-      |-      |-        |-           |9.353    |5.25  |3901 |
 
 </sub>
