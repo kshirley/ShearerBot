@@ -6,7 +6,14 @@ download.betfair <- function(game.id, week, out.dir) {
   # download the raw webpage from betfair:
   domain <- "https://www.betfair.com/"
   path <- paste0("sport/football/event?eventId=", game.id)
-  betfair.raw <- getURL(paste0(domain, path), ssl.verifypeer = FALSE)
+
+  betfair.raw <- ""
+  iter <- 1
+  while(length(gregexpr("\n", betfair.raw)[[1]]) < 6000 & iter < 10) {
+  	print(paste0("Download Attempt #", iter))
+    betfair.raw <- getURL(paste0(domain, path), ssl.verifypeer = FALSE)
+    iter <- iter + 1
+  }  
 
   # save it to a file:
   cat(betfair.raw, file = file.path(out.dir, 

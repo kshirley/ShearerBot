@@ -25,6 +25,8 @@ suppressWarnings(library(RCurl, quietly=TRUE, warn.conflicts=FALSE,
 suppressWarnings(library(XML, quietly=TRUE, warn.conflicts=FALSE, 
                  verbose=FALSE))
 library(knitr)
+library(RCurl)
+library(XML)
 
 # source the get.table() function:
 source("get_table.R")
@@ -53,7 +55,7 @@ betfair.id <- readLines(betfair.id.input.file)
 lb <- length(betfair.id)
 betfair <- as.list(rep(NA, lb))
 
-# First try:
+# Download the betfair odds:
 for (i in 1:lb) {
   print(i)
   betfair[[i]] <- download.betfair(betfair.id[i], week, 
