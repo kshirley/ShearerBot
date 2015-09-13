@@ -1,11 +1,11 @@
 # ShearerBot
-A program to make my predictions for "Predict the Premiership"
+A program to make my predictions for "Predict the Premiership"On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
 Week = 5
 
-2015-09-12 22:49:46
+2015-09-12 23:00:35
 <sub>
 
 
