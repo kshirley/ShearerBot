@@ -104,6 +104,9 @@ cat("# ShearerBot\n", file = "README.md")
 cat("A program to make my predictions for \"Predict the Premiership\"", 
     file = "README.md", append = TRUE)
 cat("\n\n", file = "README.md", append = TRUE)
+cat("On the web: http://www.predictthepremiership.com/profile/index/30978", 
+    file = "README.md", append = TRUE)
+cat("\n\n", file = "README.md", append = TRUE)
 cat("Latest Predictions:\n\n", file = "README.md", append = TRUE)
 cat(paste0("Week = ", as.numeric(week), "\n\n"), file = 
              "README.md", append =TRUE)
