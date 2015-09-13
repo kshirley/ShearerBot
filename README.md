@@ -5,22 +5,22 @@ Latest Predictions:
 
 Week = 5
 
-2015-09-11 21:43:33
+2015-09-12 22:49:46
 <sub>
 
 
 |Team1          |Team2       |Score1 |Score2 |% Picked |Probability |Expected |SD    |n    |
 |:--------------|:-----------|:------|:------|:--------|:-----------|:--------|:-----|:----|
-|Arsenal        |Stoke       |2      |0      |0.357    |0.131       |1.008    |0.88  |3943 |
-|Crystal Palace |Man City    |0      |0      |0.013    |0.053       |0.916    |1.844 |3943 |
-|Everton        |Chelsea     |2      |0      |0.015    |0.043       |0.966    |1.78  |3943 |
-|Leicester      |Aston Villa |0      |1      |0.048    |0.064       |0.919    |1.921 |3930 |
-|Man Utd        |Liverpool   |0      |1      |0.046    |0.073       |0.998    |2.01  |3944 |
-|Norwich        |Bournemouth |1      |0      |0.081    |0.096       |0.6      |0.904 |3941 |
-|Sunderland     |Tottenham   |1      |0      |0.049    |0.068       |0.964    |1.969 |3928 |
-|Watford        |Swansea     |1      |0      |0.049    |0.102       |1.45     |2.261 |3939 |
-|West Brom      |Southampton |0      |1      |0.084    |0.119       |0.638    |0.972 |3941 |
-|West Ham       |Newcastle   |0      |1      |0.048    |0.073       |1.163    |2.042 |3929 |
-|Total          |            |-      |-      |-        |-           |9.622    |5.48  |3944 |
+|Arsenal        |Stoke       |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|Crystal Palace |Man City    |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|Everton        |Chelsea     |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|Leicester      |Aston Villa |0      |2      |0.019    |0.036       |0.819    |1.67  |4573 |
+|Man Utd        |Liverpool   |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|Norwich        |Bournemouth |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|Sunderland     |Tottenham   |1      |0      |0.049    |0.067       |0.966    |1.96  |4572 |
+|Watford        |Swansea     |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|West Brom      |Southampton |NA     |NA     |NA       |NA          |NA       |NA    |NA   |
+|West Ham       |Newcastle   |0      |2      |0.018    |0.043       |1.025    |1.796 |4565 |
+|Total          |            |-      |-      |-        |-           |NA       |NA    |NA   |
 
 </sub>

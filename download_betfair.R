@@ -9,7 +9,7 @@ download.betfair <- function(game.id, week, out.dir) {
 
   betfair.raw <- ""
   iter <- 1
-  while(length(gregexpr("\n", betfair.raw)[[1]]) < 6000 & iter < 10) {
+  while(length(gregexpr("\n", betfair.raw)[[1]]) < 6000 & iter < 4) {
   	print(paste0("Download Attempt #", iter))
     betfair.raw <- getURL(paste0(domain, path), ssl.verifypeer = FALSE)
     iter <- iter + 1
