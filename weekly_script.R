@@ -8,7 +8,7 @@ gc()
 setwd("~/Stats/ShearerBot")
 
 # set the week and some local directories to store output:
-week <- "05"
+week <- "06"
 ptp.out.dir <- "~/Stats/ptp/ptp-raw"
 betfair.out.dir <- "~/Stats/ptp/betfair-raw"
 betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
@@ -92,9 +92,9 @@ output.table
 
 # set up the table for the README:
 x <- rbind(output.table, c("Total", "", "-", "-", "-", "-", 
-                         sum(output.table[, "Expected"]), 
-                         round(sqrt(sum(output.table[, "SD"]^2)), 2), 
-                         max(output.table[, "n"])))
+                         sum(output.table[, "Expected"], na.rm = TRUE), 
+                         round(sqrt(sum(output.table[, "SD"]^2, na.rm = TRUE)), 2), 
+                         max(output.table[, "n"], na.rm = TRUE)))
 
 # Format for markdown:
 kb <- kable(x)
