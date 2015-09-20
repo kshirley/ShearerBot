@@ -99,6 +99,13 @@ x <- rbind(output.table, c("Total", "", "-", "-", "-", "-",
 # Format for markdown:
 kb <- kable(x)
 
+# previous readme:
+#r <- readLines("README.md")
+#na <- is.na(output.table[, 3])
+#kb[3:12][na] <- r[16:25][na]
+#as.numeric(sapply(strsplit(r[16:25], "|", fixed = TRUE), function(x) x[8]))
+
+
 # Cat the results to the README:
 cat("# ShearerBot\n", file = "README.md")
 cat("A program to make my predictions for \"Predict the Premiership\"", 
