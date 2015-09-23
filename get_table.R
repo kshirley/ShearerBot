@@ -5,9 +5,9 @@ get.table <- function(game.id, out.dir) {
   domain <- "https://premierleague.predictthefootball.com/"
   path  <- paste0("site/stats?fixtureid=", game.id)
   data <- getURL(paste0(domain, path), ssl.verifypeer = FALSE)
-  data <- unlist(strsplit(data, "\n"))
   cat(data, file = file.path(out.dir, paste0("ptp", week, "-", 
       gsub(" ", "-", Sys.time()), "-", game.id)))
+  data <- unlist(strsplit(data, "\n"))
 
   # scrape the sample size:
   n <- as.numeric(strsplit(data[grep("Total predictions", data)], 
