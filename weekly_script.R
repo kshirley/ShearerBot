@@ -99,7 +99,8 @@ x <- rbind(output.table, c("Total", "", "-", "-", "-", "-",
 # Format for markdown:
 kb <- kable(x)
 
-# previous readme:
+# To do: for sunday updates, only replace the predictions for sunday games.
+
 #r <- readLines("README.md")
 #na <- is.na(output.table[, 3])
 #kb[3:12][na] <- r[16:25][na]
@@ -126,6 +127,9 @@ cat("\n", file = "README.md", append = TRUE)
 cat("</sub>", file = "README.md", append = TRUE)
 
 
+# Append the writeup:
+writeup <- readLines("shearer.md")
+cat("\n\n", writeup, "\n", sep = "\n", file = "README.md", append = TRUE)
 
 # Add, commit, and push the README.md file to the repo.
 # Enter the picks manually online
