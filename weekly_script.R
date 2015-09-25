@@ -68,17 +68,18 @@ save(points.table, file = file.path(summary.file.path, summary.file))
 get.max <- function(x) {
   if (!is.null(x$summary)) {
     tmp <- x$summary[which.max(x$summary[, "Expected"]), ]  
-    df <- data.frame(Team1 = gsub(".", " ", names(tmp)[1], fixed = T), 
-                     Team2 = gsub(".", " ", names(tmp)[2], fixed = T), 
+    df <- data.frame(Home = gsub(".", " ", names(tmp)[1], fixed = T), 
+                     Away = gsub(".", " ", names(tmp)[2], fixed = T), 
                      tmp, 
                      n = x$n, stringsAsFactors = FALSE)
-    names(df)[3:4] <- c("Score1", "Score2")
+    names(df)[3:4] <- c("H", "A")
     for (i in 6:8) df[, i] <- round(df[, i], 3)
     names(df)[5] <- "% Picked"
+    names(df)[6] <- "Prob"
   } else {
-  	df <- data.frame(Team1 = x$teams[1], Team2 = x$teams[2], 
-  	                 Score1 = NA, Score2 = NA, picked = NA, 
-  	                 Probability = NA, Expected = NA, SD = NA, n = NA, 
+  	df <- data.frame(Home = x$teams[1], Away = x$teams[2], 
+  	                 H = NA, A = NA, picked = NA, 
+  	                 Prob = NA, Expected = NA, SD = NA, n = NA, 
   	                 stringsAsFactors = FALSE)
     names(df)[5] <- "% Picked"
   }

@@ -7,30 +7,30 @@ Latest Predictions:
 
 Week = 7
 
-2015-09-24 00:49:14
+2015-09-24 22:31:53
 <sub>
 
 
-|Team1       |Team2          |Score1 |Score2 |% Picked |Probability |Expected |SD    |n    |
-|:-----------|:--------------|:------|:------|:--------|:-----------|:--------|:-----|:----|
-|Leicester   |Arsenal        |1      |0      |0.043    |0.056       |0.934    |1.87  |1902 |
-|Liverpool   |Aston Villa    |3      |0      |0.042    |0.083       |0.984    |1.296 |1898 |
-|Man Utd     |Sunderland     |1      |0      |0.047    |0.104       |1.209    |1.355 |1899 |
-|Newcastle   |Chelsea        |0      |0      |0.019    |0.07        |0.987    |1.983 |1898 |
-|Southampton |Swansea        |0      |1      |0.047    |0.089       |1.142    |2.147 |1899 |
-|Stoke       |Bournemouth    |0      |2      |0.015    |0.056       |1.197    |1.928 |1901 |
-|Tottenham   |Man City       |1      |0      |0.041    |0.066       |0.943    |1.943 |1899 |
-|Watford     |Crystal Palace |2      |0      |0.042    |0.072       |1.388    |2.059 |1900 |
-|West Brom   |Everton        |2      |0      |0.025    |0.056       |1.2      |1.93  |1899 |
-|West Ham    |Norwich        |0      |1      |0.028    |0.075       |1.156    |2.055 |1898 |
-|Total       |               |-      |-      |-        |-           |11.14    |5.94  |1902 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Leicester   |Arsenal        |1  |0  |0.049    |0.056 |0.921    |1.867 |2505 |
+|Liverpool   |Aston Villa    |3  |0  |0.038    |0.083 |0.969    |1.299 |2501 |
+|Man Utd     |Sunderland     |1  |0  |0.048    |0.103 |1.208    |1.348 |2503 |
+|Newcastle   |Chelsea        |0  |0  |0.017    |0.068 |0.93     |1.959 |2499 |
+|Southampton |Swansea        |0  |1  |0.05     |0.089 |0.952    |1.684 |2502 |
+|Stoke       |Bournemouth    |0  |2  |0.021    |0.056 |1.202    |1.93  |2505 |
+|Tottenham   |Man City       |1  |1  |0.12     |0.113 |0.991    |1.767 |2501 |
+|Watford     |Crystal Palace |2  |0  |0.041    |0.072 |1.398    |2.063 |2499 |
+|West Brom   |Everton        |2  |0  |0.026    |0.056 |1.196    |1.928 |2499 |
+|West Ham    |Norwich        |1  |2  |0.047    |0.074 |1.177    |2.054 |2500 |
+|Total       |               |-  |-  |-        |-     |10.944   |5.72  |2505 |
 
 </sub>
 
 
 ### Introduction
 
-This github repo hosts the code I'm currently using to make my predictions (under the name <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a>) on the football prediction site http://www.predictthepremiership.com. The goal of this season-long contest is basically to predict the correct outcome and, if possible, the exact score, of every match in the 2015-2016 English Premier League season. With 10 matches per week, and 38 weeks per season, that's 380 total matches to predict. After joining the site last year for the 2014-2015 season and making predictions "by hand" for the first 8 weeks of the season, I realized it wouldn't be hard to write a program to compute the optimal predictions each week. It turned out to be slightly harder than I thought, but I had the basic code running within about 6 or 8 hours of work. Using my program to compute optimal predictions for each match from weeks 9 through 38, I climbed the standings from the middle of the pack to <a href = 'http://www.predictthepremiership.com/standings/overall/2014'>finish 4th overall</a> (out of about 3000 active participants), including a brief stint at #1 overall around week 30.
+This github repo hosts the code I'm currently using to make my predictions (under the name <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a>) on the football prediction site http://www.predictthepremiership.com. The goal of this season-long contest is basically to predict the correct outcome and, if possible, the exact score, of every match in the 2015-2016 English Premier League season. With 10 matches per week, and 38 weeks per season, that's 380 total matches to predict. After joining the site last year for the 2014-2015 season and making predictions "by hand" for the first 8 weeks of the season, I realized it wouldn't be hard to write a program to compute the optimal predictions each week. It turned out to be slightly harder than I thought, but I had the basic code running within a few evenings of work. Using my program to compute optimal predictions for each match from weeks 9 through 38, I climbed the standings from the middle of the pack to <a href = 'http://www.predictthepremiership.com/standings/overall/2014'>finish 4th overall</a> (out of about 3000 active participants), including a brief stint at #1 overall around week 30.
 
 This year I'm posting my code and predictions here on github each week as I make them. I suppose by doing this, I'm giving away my secrets, but there's no money on the line, and it will be cool to see if sharing this methodology sparks any interesting conversations. Also, based on the similarity of my predictions to those of some of my competitors last year, I'm pretty sure I'm not the only one doing this. All my code is written in R. I'd love to hear any feedback - just leave a note in the <a href='https://github.com/kshirley/ShearerBot/issues'>Issues section</a>.
 
@@ -64,11 +64,11 @@ Under these rules, to make my 'optimal' score prediction for a given match, I fo
 
 4. Input the prediction that maximizes the expected number of points earned.
 
-So - to be clear, there is no novel modeling or forecasting of football outcomes going on here. I just treat the befair odds as the most accurate current estimates of the probabilities of each match outcome, and compute the optimal strategy based on the combination of these odds and the current aggregated picks of the rest of the pool participants. In a way, it's kind of boring, since I'm not expressing any personal opinions about any matches. But it's probably just about the best default method that's available for making predictions. One could deviate slightly from these predictions based on one's personal opinion and still be confident that he/she would have a competitive entry.
+So - to be clear, there is no novel modeling or forecasting of football outcomes going on here. I just treat the befair odds as the most accurate current estimates of the probabilities of each match outcome, and compute the optimal strategy based on the combination of these odds and the current aggregated picks of the rest of the pool participants. In a way, it's kind of boring, since I'm not expressing any personal opinions about any matches. But it's probably just about the best default method that's available for making predictions. You could deviate slightly from these predictions based on your personal opinion and still be confident that you would have a competitive entry.
 
 ### A Single-match Example
 
-To see how this all works, here is an example and some code snippets illustrating how to predict an example match: the 2015-09-27 match between Watford and Crystal Palace.
+To see how this all works, here is an example and some code snippets illustrating how to predict an example match: the 2015-09-27 match between Watford and Crystal Palace, in week 7 of the EPL season.
 
 #### Downloading the Grid
 
@@ -78,7 +78,7 @@ First, we download the grid of aggregated predictions by other pool participants
 
 This was downloaded on the evening of Sept. 22, five full days ahead of the match, and so there are only 1900 predictions submitted from the approximately 4500 active participants. For now, the correct result bonus is available for the Watford win, since less than 20% of participants have predicted this result. The exact score bonus is available for all exact scores that have currently been predicted by less than 5% of participants. These include Watford 1, Palace 3 (4.39%) and everything below. (The Watford 2, Palace 0 line is highlighted because -- spoiler alert -- this is my current pick; I didn't take the screenshot until after submitting my pick, which turns on the highlighting).
 
-I download this information using the R function I wrote called 'get.table()', which takes as its main argument the fixture ID number of this match, which in this case is 68. (For week n, the fixture ID numbers range from 10(n - 1) + 1 to 10*n). The info looks like this in R:
+I download this information using the R function I wrote called `get.table()`, which takes as its main argument the fixture ID number of this match, which in this case is 68. (For week w, the fixture ID numbers range from 10(w - 1) + 1 to 10w). The info looks like this in R:
 
 <pre>
 > ptp.table[[8]]
@@ -127,7 +127,7 @@ On betfair the market for Watford-Palace on Sept. 27th looks like this (download
 
 It looks like the most probable outcome is the 1-1 draw (11/2 odds), followed by the 1-0 Watford win (13/2 odds).
 
-I use the function 'download.betfair()' to get this info, which, again, takes an ID number for this match as its main argument. This webpage is messier than the grid webpage, so it takes more effort to parse (and I could probably write much better code using various packages for html parsing), but in the end, the info that I gather looks like this:
+I use the function `download.betfair()` to get this info, which, again, takes an ID number for this match as its main argument. This webpage is messier than the grid webpage, so it takes more effort to parse (and I could probably write much better code using various packages for html parsing), but in the end, the info that I gather looks like this:
 
 <pre>
 > betfair[[9]]
@@ -176,7 +176,7 @@ P(Crystal Palace win) = 33.8%
 
 #### Computing Expected Points
 
-Next, we combine the grid with the odds to compute the expected number of points earned by each possible score prediction. For a given score, we first compute the probability of earning each possible number of points, which is either 0, 1, 3, 5, or 7.
+Next, we combine the grid with the odds to compute the expected number of points earned by each possible score prediction for this match. For a given score, we first compute the probability of earning each possible number of points, which is either 0, 1, 3, 5, or 7.
 
 Let's take the prediction of Watford 2, Palace 0, for example.
 
@@ -233,11 +233,11 @@ E(points) = 0 x P(0 points) +
           = 1.385.
 </pre>
 
-The variance is simply E(points squared) - E(points) = 4.24 points, for a standard deviation of 2.06 points for this prediction.
+The variance is simply E(points squared) - E(points)^2 = 4.24 points, for a standard deviation of 2.06 points for this prediction.
 
-Now, keep in mind this calculation is only for the prediction of Watford 2, Crystal Palace 0. We need to compute the expected number of points earned for every possible (or at least every non-zero estimated probability) score, and then choose the maximum as our prediction for the week.
+Now, keep in mind this calculation is only for the prediction of Watford 2, Crystal Palace 0. We need to compute the expected number of points earned for every possible (or at least every non-zero estimated probability) score, and then choose the maximum as our prediction for this match.
 
-Here is the data frame summarizing the expected number of points (and standard deviations) for every possible score with a non-zero estimated probability (according to betfair, at least). This is computed for each game of a given week by the 'make.pick()' function.
+Here is the data frame summarizing the expected number of points (and standard deviations) for every possible score with a non-zero estimated probability (according to betfair, at least) for the Watford-Palace match. This is computed for each game of a given week by the `make.pick()` function.
 
 <pre>
 $n
@@ -293,9 +293,9 @@ E(points) - k x sd(points)
 </pre>
 for some value of k, like 0.5 or 1. This would be a more risk-averse strategy, delivering fewer expected points, but with a lower variance. This type of thing is pretty common in portfolio theory, where you're allocating money amongst a set of investments, each of whose return is a random variable. I actually tried this with k = 0.3 last season after I reached #1 overall around Week 30, thinking it would be the best way to protect my lead. It obviously didn't work out. This season I plan to stick with maximizing expected points, even if I go through a rough patch at some point during the season (or if I get to #1 overall at some point).
 
-Regarding logistics: I typically run the code in 'weekly_script.R' Friday night (U.S. eastern time zone) and input the optimal predictions for all the matches that week, and this season I'm immediately posting my predictions right here on github. Then I run the code again Saturday night in case new data has changed the optimal predictions for Sunday matches. Sometimes I'll run it again Sunday night for a Monday match, or during match day for a quick update. Later in the season when there are mid-week games, I run the code as necessary. Last year I had a cron job run the code and email me the results every morning, but that felt like overkill.
+Regarding logistics: I typically run the code in 'weekly_script.R' Friday night (U.S. eastern time zone) and input the optimal predictions for all the matches that week, and this season I'm immediately posting my predictions right here on github. Then I run the code again Saturday night in case new data has changed the optimal predictions for Sunday matches. Sometimes I'll run it again Sunday night for a Monday match, or during match day for a quick update. Later in the season when there are mid-week games, I run the code as necessary. Last year I had a cron job run the code and email me the results every morning, but that felt like overkill. Ideally I would enter the kickoff times of each match, download the grid and odds about 5 minutes before kickoff, and programatically submit the optimal pick, but I haven't gotten that far yet.
 
-Anyway, to set up for a given week, I only need to download the betfair match ID numbers for the week, and I need to confirm that the match ID numbers on the "Predict the Premiership" site are consecutively numbered from ((w - 1) x 10 + 1) to (10 x w) for week w of the season. Otherwise (as is sometimes the case with postponded matches), I just manually input the vector of fixture IDs.
+Anyway, to set up for a given week, I only need to download the betfair match ID numbers for the week, and I need to confirm that the match ID numbers on the "Predict the Premiership" site are consecutively numbered from ((w - 1) x 10 + 1) to (10 x w) for week w of the season. If that's not the case (postponded matches sometimes have unusual fixture IDs), I just manually input the vector of fixture IDs.
 
 That's all for now. As of this writing (Sept 24th, 2015), the <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a> is in 12th place overall for the season, with 68 points earned through 6 weeks. That's probably about 8 points higher than expected, but well within the standard deviation of about sqrt(3.5*60) = 15.
 
