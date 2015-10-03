@@ -7,7 +7,7 @@ Latest Predictions:
 
 Week = 8
 
-2015-10-02 21:24:07
+2015-10-02 21:36:16
 <sub>
 
 
@@ -30,7 +30,7 @@ Week = 8
 
 ### Introduction
 
-This github repo hosts the code I'm currently using to make my predictions (under the name <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a>) on the football prediction site http://www.predictthepremiership.com. The goal of this season-long contest is basically to predict the correct outcome and, if possible, the exact score, of every match in the 2015-2016 English Premier League season. With 10 matches per week, and 38 weeks per season, that's 380 total matches to predict. After joining the site last year for the 2014-2015 season and making predictions "by hand" for the first 8 weeks of the season, I realized it wouldn't be hard to write a program to compute the optimal predictions each week. It turned out to be slightly harder than I thought, but I had the basic code running within a few evenings of work. Using my program to compute optimal predictions for each match from weeks 9 through 38, I climbed the standings from the middle of the pack to <a href = 'http://www.predictthepremiership.com/standings/overall/2014'>finish 4th overall</a> (out of about 3000 active participants), including a brief stint at #1 overall around week 30.
+This github repo hosts the code I'm currently using to make my predictions (under the name <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a>) on the football prediction site http://www.predictthepremiership.com. The goal of this season-long contest is basically to predict the correct outcome and, if possible, the exact score, of every match in the 2015-2016 English Premier League season. With 10 matches per week, and 38 weeks per season, that's 380 total matches to predict. After joining the site last year for the 2014-2015 season and making predictions "by hand" for the first 8 weeks of the season, I realized it might be possible to write a program to compute the optimal predictions each week. Within a few evenings of work I had a basic program up and running. Using my program to compute optimal predictions for each match from weeks 9 through 38, I climbed the standings from the middle of the pack to <a href = 'http://www.predictthepremiership.com/standings/overall/2014'>finish 4th overall</a> (out of about 3000 active participants), including a brief stint at #1 overall around week 30.
 
 This year I'm posting my code and predictions here on github each week as I make them. I suppose by doing this, I'm giving away my secrets, but there's no money on the line, and it will be cool to see if sharing this methodology sparks any interesting conversations. Also, based on the similarity of my predictions to those of some of my competitors last year, I'm pretty sure I'm not the only one doing this. All my code is written in R. I'd love to hear any feedback - just leave a note in the <a href='https://github.com/kshirley/ShearerBot/issues'>Issues section</a>.
 
