@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 7
+Week = 8
 
-2015-09-25 21:47:30
+2015-10-02 21:24:07
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Leicester   |Arsenal        |1  |0  |0.048    |0.055 |0.909    |1.853 |3526 |
-|Liverpool   |Aston Villa    |0  |0  |0.04     |0.075 |0.97     |2.014 |3525 |
-|Man Utd     |Sunderland     |1  |0  |0.048    |0.109 |1.238    |1.373 |3527 |
-|Newcastle   |Chelsea        |2  |2  |0.021    |0.054 |0.897    |1.846 |3524 |
-|Southampton |Swansea        |0  |1  |0.05     |0.084 |0.915    |1.656 |3526 |
-|Stoke       |Bournemouth    |0  |2  |0.023    |0.055 |1.176    |1.923 |3529 |
-|Tottenham   |Man City       |0  |0  |0.014    |0.064 |1.033    |1.955 |3524 |
-|Watford     |Crystal Palace |2  |0  |0.041    |0.072 |1.41     |2.064 |3517 |
-|West Brom   |Everton        |2  |0  |0.031    |0.055 |1.199    |1.924 |3515 |
-|West Ham    |Norwich        |1  |2  |0.046    |0.073 |1.17     |2.048 |3526 |
-|Total       |               |-  |-  |-        |-     |10.917   |5.93  |3529 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal        |Man Utd     |1  |0  |0.047    |0.093 |0.851    |1.41  |3297 |
+|Aston Villa    |Stoke       |2  |0  |0.049    |0.069 |0.66     |1.264 |3312 |
+|Bournemouth    |Watford     |1  |0  |0.112    |0.108 |0.668    |0.933 |3311 |
+|Chelsea        |Southampton |0  |0  |0.023    |0.069 |1.048    |1.992 |3310 |
+|Crystal Palace |West Brom   |0  |0  |0.031    |0.092 |1.174    |2.173 |3314 |
+|Everton        |Liverpool   |0  |1  |0.037    |0.09  |1.399    |2.18  |3297 |
+|Man City       |Newcastle   |1  |0  |0.045    |0.085 |1.128    |1.247 |3312 |
+|Norwich        |Leicester   |2  |0  |0.033    |0.069 |0.701    |1.26  |3311 |
+|Sunderland     |West Ham    |2  |0  |0.036    |0.054 |1.19     |1.918 |3307 |
+|Swansea        |Tottenham   |2  |0  |0.042    |0.065 |0.633    |1.238 |3294 |
+|Total          |            |-  |-  |-        |-     |9.452    |5.12  |3314 |
 
 </sub>
 

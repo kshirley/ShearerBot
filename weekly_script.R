@@ -8,7 +8,7 @@ gc()
 setwd("~/Stats/ShearerBot")
 
 # set the week and some local directories to store output:
-week <- "07"
+week <- "08"
 ptp.out.dir <- "~/Stats/ptp/ptp-raw"
 betfair.out.dir <- "~/Stats/ptp/betfair-raw"
 betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
@@ -64,7 +64,8 @@ summary.file <- paste0("summary-", week, "-",
                        gsub(" ", "-", as.character(Sys.time())), ".RData")
 save(points.table, file = file.path(summary.file.path, summary.file))
 
-# function to extract the score yielding the highest expected points for each game:
+# function to extract the score yielding the highest expected points 
+# for each game:
 get.max <- function(x) {
   if (!is.null(x$summary)) {
     tmp <- x$summary[which.max(x$summary[, "Expected"]), ]  
@@ -92,9 +93,10 @@ rownames(output.table) <- 1:n.games
 output.table
 
 # set up the table for the README:
+total.var <- round(sqrt(sum(output.table[, "SD"]^2, na.rm = TRUE)), 2)
 x <- rbind(output.table, c("Total", "", "-", "-", "-", "-", 
                          sum(output.table[, "Expected"], na.rm = TRUE), 
-                         round(sqrt(sum(output.table[, "SD"]^2, na.rm = TRUE)), 2), 
+                         total.var, 
                          max(output.table[, "n"], na.rm = TRUE)))
 
 # Format for markdown:
