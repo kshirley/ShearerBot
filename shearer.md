@@ -1,33 +1,3 @@
-# ShearerBot
-A program to make my predictions for "Predict the Premiership"
-
-On the web: http://www.predictthepremiership.com/profile/index/30978
-
-Latest Predictions:
-
-Week = 9
-
-2015-10-17 01:43:37
-<sub>
-
-
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Aston Villa |2  |0  |0.342    |0.127 |0.986    |0.882 |3525 |
-|Crystal Palace |West Ham    |0  |2  |0.022    |0.036 |0.899    |1.699 |3521 |
-|Everton        |Man Utd     |0  |2  |0.043    |0.072 |0.704    |1.288 |3523 |
-|Man City       |Bournemouth |1  |0  |0.049    |0.102 |1.138    |1.371 |3522 |
-|Newcastle      |Norwich     |1  |0  |0.116    |0.091 |0.575    |0.89  |3503 |
-|Southampton    |Leicester   |0  |1  |0.037    |0.054 |0.874    |1.838 |3520 |
-|Swansea        |Stoke       |0  |1  |0.049    |0.084 |1.061    |2.097 |3503 |
-|Tottenham      |Liverpool   |1  |0  |0.046    |0.086 |0.733    |1.381 |3527 |
-|Watford        |Arsenal     |2  |2  |0.014    |0.054 |0.893    |1.843 |3520 |
-|West Brom      |Sunderland  |0  |1  |0.059    |0.082 |0.937    |1.66  |3519 |
-|Total          |            |-  |-  |-        |-     |8.8      |4.88  |3527 |
-
-</sub>
-
-
 ### Introduction
 
 This github repo hosts the code I'm currently using to make my predictions (under the name <a href='http://www.predictthepremiership.com/profile/index/30978'>ShearerBot</a>) on the football prediction site http://www.predictthepremiership.com. The goal of this season-long contest is basically to predict the correct outcome and, if possible, the exact score, of every match in the 2015-2016 English Premier League season. With 10 matches per week, and 38 weeks per season, that's 380 total matches to predict. After joining the site last year for the 2014-2015 season and making predictions "by hand" for the first 8 weeks of the season, I realized it might be possible to write a program to compute the optimal predictions each week. Within a few evenings of work I had a basic program up and running. Using my program to compute optimal predictions for each match from weeks 9 through 38, I climbed the standings from the middle of the pack to <a href = 'http://www.predictthepremiership.com/standings/overall/2014'>finish 4th overall</a> (out of about 3000 active participants), including a brief stint at #1 overall around week 30.
@@ -307,5 +277,3 @@ Kenny Shirley
 NJ, USA
 9/24/2015
 </pre>
-
-
