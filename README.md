@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 9
 
-2015-10-17 01:43:37
+2015-10-18 21:44:36
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Aston Villa |2  |0  |0.342    |0.127 |0.986    |0.882 |3525 |
-|Crystal Palace |West Ham    |0  |2  |0.022    |0.036 |0.899    |1.699 |3521 |
-|Everton        |Man Utd     |0  |2  |0.043    |0.072 |0.704    |1.288 |3523 |
-|Man City       |Bournemouth |1  |0  |0.049    |0.102 |1.138    |1.371 |3522 |
-|Newcastle      |Norwich     |1  |0  |0.116    |0.091 |0.575    |0.89  |3503 |
-|Southampton    |Leicester   |0  |1  |0.037    |0.054 |0.874    |1.838 |3520 |
-|Swansea        |Stoke       |0  |1  |0.049    |0.084 |1.061    |2.097 |3503 |
-|Tottenham      |Liverpool   |1  |0  |0.046    |0.086 |0.733    |1.381 |3527 |
-|Watford        |Arsenal     |2  |2  |0.014    |0.054 |0.893    |1.843 |3520 |
-|West Brom      |Sunderland  |0  |1  |0.059    |0.082 |0.937    |1.66  |3519 |
-|Total          |            |-  |-  |-        |-     |8.8      |4.88  |3527 |
+|Chelsea        |Aston Villa |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Crystal Palace |West Ham    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Everton        |Man Utd     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Man City       |Bournemouth |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Newcastle      |Norwich     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Southampton    |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Swansea        |Stoke       |0  |1  |0.05     |0.082 |0.897    |1.646 |4198 |
+|Tottenham      |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Watford        |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|West Brom      |Sunderland  |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total          |            |-  |-  |-        |-     |0.897    |1.65  |4198 |
 
 </sub>
 
