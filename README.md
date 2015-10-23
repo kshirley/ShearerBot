@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 9
+Week = 10
 
-2015-10-18 21:44:36
+2015-10-22 20:58:23
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Aston Villa |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |West Ham    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton        |Man Utd     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man City       |Bournemouth |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Newcastle      |Norwich     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton    |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea        |Stoke       |0  |1  |0.05     |0.082 |0.897    |1.646 |4198 |
-|Tottenham      |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Watford        |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Sunderland  |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total          |            |-  |-  |-        |-     |0.897    |1.65  |4198 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Everton        |2  |0  |0.252    |0.106 |0.893    |0.856 |2099 |
+|Aston Villa |Swansea        |0  |1  |0.089    |0.118 |0.62     |0.973 |2105 |
+|Bournemouth |Tottenham      |1  |0  |0.039    |0.083 |1.165    |2.113 |2093 |
+|Leicester   |Crystal Palace |0  |1  |0.041    |0.07  |1.141    |2.022 |2102 |
+|Liverpool   |Southampton    |0  |1  |0.036    |0.073 |1.064    |2.028 |2096 |
+|Man Utd     |Man City       |1  |0  |0.039    |0.084 |0.708    |1.371 |2095 |
+|Norwich     |West Brom      |1  |0  |0.126    |0.118 |0.713    |0.956 |2100 |
+|Stoke       |Watford        |0  |0  |0.049    |0.103 |1.258    |2.254 |2098 |
+|Sunderland  |Newcastle      |2  |0  |0.041    |0.07  |0.654    |1.277 |2092 |
+|West Ham    |Chelsea        |1  |2  |0.267    |0.097 |0.692    |0.893 |2099 |
+|Total       |               |-  |-  |-        |-     |8.908    |4.96  |2105 |
 
 </sub>
 
