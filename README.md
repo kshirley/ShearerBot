@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 10
+Week = 11
 
-2015-10-24 09:38:45
+2015-10-30 00:21:45
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Everton        |1  |0  |0.049    |0.091 |1.068    |1.321 |3991 |
-|Aston Villa |Swansea        |0  |0  |0.049    |0.099 |0.684    |1.481 |3997 |
-|Bournemouth |Tottenham      |1  |0  |0.036    |0.084 |1.163    |2.116 |3927 |
-|Leicester   |Crystal Palace |0  |1  |0.049    |0.064 |1.069    |1.962 |3997 |
-|Liverpool   |Southampton    |0  |1  |0.043    |0.069 |1.011    |1.983 |3930 |
-|Man Utd     |Man City       |1  |0  |0.038    |0.083 |0.716    |1.363 |3931 |
-|Norwich     |West Brom      |1  |0  |0.123    |0.118 |0.726    |0.952 |3996 |
-|Stoke       |Watford        |1  |1  |0.098    |0.126 |1.106    |1.833 |3994 |
-|Sunderland  |Newcastle      |2  |0  |0.046    |0.064 |0.632    |1.228 |3928 |
-|West Ham    |Chelsea        |0  |1  |0.054    |0.1   |0.698    |0.901 |3994 |
-|Total       |               |-  |-  |-        |-     |8.873    |4.96  |3997 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Liverpool   |1  |0  |0.082    |0.109 |0.676    |0.934 |2222 |
+|Crystal Palace |Man Utd     |0  |0  |0.019    |0.087 |1.167    |2.139 |2220 |
+|Everton        |Sunderland  |0  |0  |0.035    |0.064 |0.927    |1.929 |2209 |
+|Man City       |Norwich     |2  |1  |0.043    |0.092 |1.136    |1.296 |2224 |
+|Newcastle      |Stoke       |1  |0  |0.094    |0.101 |0.605    |0.919 |2220 |
+|Southampton    |Bournemouth |0  |0  |0.031    |0.062 |0.915    |1.91  |2210 |
+|Swansea        |Arsenal     |0  |0  |0.018    |0.065 |1.019    |1.96  |2220 |
+|Tottenham      |Aston Villa |2  |0  |0.277    |0.125 |0.946    |0.895 |2211 |
+|Watford        |West Ham    |2  |0  |0.026    |0.065 |1.347    |2.013 |2219 |
+|West Brom      |Leicester   |0  |1  |0.081    |0.098 |0.574    |0.912 |2218 |
+|Total          |            |-  |-  |-        |-     |9.312    |4.99  |2224 |
 
 </sub>
 
