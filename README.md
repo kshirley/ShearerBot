@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 11
+Week = 12
 
-2015-10-31 22:34:38
+2015-11-05 22:08:17
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |Man Utd     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton        |Sunderland  |0  |0  |0.033    |0.064 |0.929    |1.931 |4016 |
-|Man City       |Norwich     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Newcastle      |Stoke       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton    |Bournemouth |0  |0  |0.026    |0.062 |0.917    |1.912 |4016 |
-|Swansea        |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Tottenham      |Aston Villa |1  |1  |0.047    |0.09  |0.944    |2.111 |4008 |
-|Watford        |West Ham    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total          |            |-  |-  |-        |-     |2.79     |3.44  |4016 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Tottenham      |1  |0  |0.049    |0.091 |0.954    |1.365 |2083 |
+|Aston Villa |Man City       |0  |1  |0.037    |0.108 |1.108    |1.43  |2084 |
+|Bournemouth |Newcastle      |3  |1  |0.018    |0.05  |0.611    |1.113 |2091 |
+|Leicester   |Watford        |0  |0  |0.028    |0.064 |0.999    |1.946 |2093 |
+|Liverpool   |Crystal Palace |0  |0  |0.027    |0.075 |1.027    |2.029 |2083 |
+|Man Utd     |West Brom      |2  |0  |0.338    |0.15  |1.02     |0.939 |2093 |
+|Norwich     |Swansea        |2  |0  |0.045    |0.067 |0.648    |1.253 |2090 |
+|Stoke       |Chelsea        |0  |1  |0.076    |0.116 |0.7      |0.951 |2091 |
+|Sunderland  |Southampton    |0  |3  |0.047    |0.063 |0.8      |1.194 |2092 |
+|West Ham    |Everton        |1  |0  |0.048    |0.082 |0.72     |1.355 |2092 |
+|Total       |               |-  |-  |-        |-     |8.587    |4.43  |2093 |
 
 </sub>
 
