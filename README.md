@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 12
+Week = 13
 
-2015-11-07 00:56:34
+2015-11-19 21:49:15
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Tottenham      |3  |0  |0.027    |0.061 |0.813    |1.17  |3193 |
-|Aston Villa |Man City       |0  |1  |0.044    |0.109 |1.112    |1.432 |3197 |
-|Bournemouth |Newcastle      |3  |1  |0.021    |0.05  |0.605    |1.109 |3218 |
-|Leicester   |Watford        |0  |0  |0.031    |0.064 |1.022    |1.95  |3216 |
-|Liverpool   |Crystal Palace |0  |0  |0.028    |0.076 |1.04     |2.039 |3194 |
-|Man Utd     |West Brom      |2  |0  |0.34     |0.144 |1.012    |0.923 |3213 |
-|Norwich     |Swansea        |2  |0  |0.043    |0.065 |0.649    |1.24  |3214 |
-|Stoke       |Chelsea        |0  |1  |0.078    |0.115 |0.709    |0.947 |3214 |
-|Sunderland  |Southampton    |1  |0  |0.05     |0.069 |0.775    |1.553 |3213 |
-|West Ham    |Everton        |2  |0  |0.046    |0.061 |0.638    |1.204 |3213 |
-|Total       |               |-  |-  |-        |-     |8.375    |4.44  |3218 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Norwich     |2  |0  |0.332    |0.118 |0.918    |0.885 |2397 |
+|Crystal Palace |Sunderland  |0  |0  |0.042    |0.067 |0.941    |1.953 |2387 |
+|Everton        |Aston Villa |0  |0  |0.028    |0.07  |0.977    |1.981 |2396 |
+|Man City       |Liverpool   |3  |0  |0.045    |0.063 |0.839    |1.18  |2393 |
+|Newcastle      |Leicester   |1  |2  |0.253    |0.087 |0.57     |0.877 |2396 |
+|Southampton    |Stoke       |3  |0  |0.017    |0.077 |0.914    |1.274 |2396 |
+|Swansea        |Bournemouth |0  |2  |0.008    |0.037 |0.809    |1.674 |2395 |
+|Tottenham      |West Ham    |3  |0  |0.02     |0.069 |0.876    |1.22  |2389 |
+|Watford        |Man Utd     |0  |0  |0.032    |0.105 |1.26     |2.268 |2400 |
+|West Brom      |Arsenal     |0  |1  |0.066    |0.115 |0.879    |0.892 |2391 |
+|Total          |            |-  |-  |-        |-     |8.983    |4.75  |2400 |
 
 </sub>
 
