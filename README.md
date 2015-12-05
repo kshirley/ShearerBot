@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 14
+Week = 15
 
-2015-11-28 16:25:16
+2015-12-04 23:22:36
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa    |Watford     |1  |0  |0.119    |0.11  |0.576    |0.95  |3716 |
-|Bournemouth    |Everton     |2  |1  |0.049    |0.083 |1.386    |2.139 |3714 |
-|Crystal Palace |Newcastle   |0  |0  |0.03     |0.063 |0.985    |1.938 |3716 |
-|Leicester      |Man Utd     |0  |2  |0.043    |0.067 |0.68     |1.247 |3709 |
-|Liverpool      |Swansea     |2  |0  |0.302    |0.117 |0.895    |0.894 |3654 |
-|Man City       |Southampton |0  |0  |0.019    |0.053 |0.908    |1.838 |3713 |
-|Norwich        |Arsenal     |2  |2  |0.017    |0.054 |0.907    |1.843 |3654 |
-|Sunderland     |Stoke       |0  |1  |0.176    |0.111 |0.608    |0.951 |3711 |
-|Tottenham      |Chelsea     |0  |1  |0.048    |0.081 |0.658    |1.355 |3658 |
-|West Ham       |West Brom   |0  |1  |0.051    |0.086 |0.976    |1.685 |3654 |
-|Total          |            |-  |-  |-        |-     |8.579    |4.89  |3716 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Sunderland     |4  |0  |0.046    |0.069 |1.027    |1.166 |3022 |
+|Chelsea     |Bournemouth    |2  |0  |0.311    |0.113 |0.928    |0.864 |3021 |
+|Everton     |Crystal Palace |0  |1  |0.033    |0.064 |1.047    |1.956 |3007 |
+|Man Utd     |West Ham       |3  |0  |0.044    |0.092 |1.035    |1.341 |3023 |
+|Newcastle   |Liverpool      |2  |2  |0.028    |0.054 |0.901    |1.846 |3010 |
+|Southampton |Aston Villa    |0  |0  |0.03     |0.073 |0.946    |2     |3021 |
+|Stoke       |Man City       |0  |0  |0.024    |0.064 |0.942    |1.929 |3020 |
+|Swansea     |Leicester      |2  |0  |0.037    |0.064 |1.311    |2     |3022 |
+|Watford     |Norwich        |0  |2  |0.019    |0.047 |1.05     |1.833 |3019 |
+|West Brom   |Tottenham      |1  |0  |0.049    |0.075 |0.932    |2.004 |3019 |
+|Total       |               |-  |-  |-        |-     |10.119   |5.5   |3023 |
 
 </sub>
 
