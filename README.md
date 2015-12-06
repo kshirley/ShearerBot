@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 15
 
-2015-12-04 23:22:36
+2015-12-06 00:04:39
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Sunderland     |4  |0  |0.046    |0.069 |1.027    |1.166 |3022 |
-|Chelsea     |Bournemouth    |2  |0  |0.311    |0.113 |0.928    |0.864 |3021 |
-|Everton     |Crystal Palace |0  |1  |0.033    |0.064 |1.047    |1.956 |3007 |
-|Man Utd     |West Ham       |3  |0  |0.044    |0.092 |1.035    |1.341 |3023 |
-|Newcastle   |Liverpool      |2  |2  |0.028    |0.054 |0.901    |1.846 |3010 |
-|Southampton |Aston Villa    |0  |0  |0.03     |0.073 |0.946    |2     |3021 |
-|Stoke       |Man City       |0  |0  |0.024    |0.064 |0.942    |1.929 |3020 |
-|Swansea     |Leicester      |2  |0  |0.037    |0.064 |1.311    |2     |3022 |
-|Watford     |Norwich        |0  |2  |0.019    |0.047 |1.05     |1.833 |3019 |
-|West Brom   |Tottenham      |1  |0  |0.049    |0.075 |0.932    |2.004 |3019 |
-|Total       |               |-  |-  |-        |-     |10.119   |5.5   |3023 |
+|Arsenal     |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Chelsea     |Bournemouth    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Everton     |Crystal Palace |0  |1  |0.035    |0.062 |1.026    |1.942 |3883 |
+|Man Utd     |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Newcastle   |Liverpool      |2  |2  |0.028    |0.053 |0.882    |1.834 |3892 |
+|Southampton |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Stoke       |Man City       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Swansea     |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Watford     |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|West Brom   |Tottenham      |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total       |               |-  |-  |-        |-     |1.908    |2.67  |3892 |
 
 </sub>
 
