@@ -56,6 +56,8 @@ for (i in 1:n.betfair) {
                                    out.dir = betfair.out.dir)
 }
 
+sapply(betfair, function(x) x$teams)
+
 # Get E(points) and sd(points) for every score, every game:
 points.table <- make.pick(ptp.table = ptp.table, betfair = betfair)
 
