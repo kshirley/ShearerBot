@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 16
+Week = 17
 
-2015-12-11 22:47:54
+2015-12-18 21:19:36
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa    |Arsenal     |0  |0  |0.025    |0.067 |0.933    |1.954 |2764 |
-|Bournemouth    |Man Utd     |2  |0  |0.019    |0.048 |1.061    |1.843 |2780 |
-|Crystal Palace |Southampton |0  |2  |0.023    |0.056 |1.192    |1.927 |2782 |
-|Leicester      |Chelsea     |0  |1  |0.049    |0.093 |0.776    |1.428 |2759 |
-|Liverpool      |West Brom   |0  |0  |0.037    |0.081 |0.981    |2.06  |2763 |
-|Man City       |Swansea     |2  |0  |0.25     |0.117 |0.996    |0.841 |2781 |
-|Norwich        |Everton     |2  |0  |0.017    |0.055 |1.176    |1.919 |2786 |
-|Sunderland     |Watford     |0  |2  |0.049    |0.063 |0.621    |1.226 |2779 |
-|Tottenham      |Newcastle   |2  |0  |0.255    |0.106 |0.911    |0.846 |2766 |
-|West Ham       |Stoke       |1  |0  |0.084    |0.11  |0.605    |0.949 |2780 |
-|Total          |            |-  |-  |-        |-     |9.252    |4.97  |2786 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Man City       |0  |1  |0.032    |0.06  |1.205    |1.963 |2853 |
+|Chelsea     |Sunderland     |2  |0  |0.333    |0.134 |0.996    |0.899 |2875 |
+|Everton     |Leicester      |1  |0  |0.047    |0.084 |0.796    |1.36  |2875 |
+|Man Utd     |Norwich        |0  |0  |0.039    |0.074 |0.939    |1.998 |2874 |
+|Newcastle   |Aston Villa    |1  |1  |0.104    |0.124 |1.055    |1.814 |2871 |
+|Southampton |Tottenham      |2  |0  |0.033    |0.064 |1.317    |2.003 |2872 |
+|Stoke       |Crystal Palace |1  |0  |0.134    |0.119 |0.628    |0.974 |2871 |
+|Swansea     |West Ham       |1  |0  |0.089    |0.117 |0.686    |0.957 |2858 |
+|Watford     |Liverpool      |1  |0  |0.056    |0.08  |0.91     |1.645 |2857 |
+|West Brom   |Bournemouth    |1  |0  |0.15     |0.102 |0.593    |0.925 |2871 |
+|Total       |               |-  |-  |-        |-     |9.125    |4.82  |2875 |
 
 </sub>
 
