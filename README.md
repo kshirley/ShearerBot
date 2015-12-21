@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 17
 
-2015-12-20 01:48:31
+2015-12-21 00:07:46
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Man City       |0  |1  |0.034    |0.06  |1.203    |1.961 |3764 |
+|Arsenal     |Man City       |1  |0  |0.041    |0.071 |0.698    |1.281 |3819 |
 |Chelsea     |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |Everton     |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |Man Utd     |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |Newcastle   |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |Southampton |Tottenham      |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |Stoke       |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |West Ham       |1  |0  |0.087    |0.116 |0.686    |0.956 |3773 |
-|Watford     |Liverpool      |2  |0  |0.032    |0.038 |0.885    |1.715 |3775 |
+|Swansea     |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Watford     |Liverpool      |NA |NA |NA       |NA    |NA       |NA    |NA   |
 |West Brom   |Bournemouth    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total       |               |-  |-  |-        |-     |2.774    |2.78  |3775 |
+|Total       |               |-  |-  |-        |-     |0.698    |1.28  |3819 |
 
 </sub>
 
