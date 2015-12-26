@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 18
 
-2015-12-26 00:24:46
+2015-12-26 09:48:14
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |West Ham       |2  |0  |0.048    |0.071 |0.659    |1.279 |2974 |
-|Bournemouth |Crystal Palace |2  |0  |0.037    |0.074 |0.709    |1.297 |2972 |
-|Chelsea     |Watford        |0  |0  |0.021    |0.062 |0.895    |1.903 |2973 |
-|Liverpool   |Leicester      |2  |0  |0.049    |0.073 |0.78     |1.279 |2974 |
-|Man City    |Sunderland     |2  |0  |0.21     |0.11  |1.008    |0.81  |2974 |
-|Newcastle   |Everton        |2  |0  |0.031    |0.043 |1.065    |1.804 |2974 |
-|Southampton |Arsenal        |0  |0  |0.018    |0.075 |1.09     |2.044 |2971 |
-|Stoke       |Man Utd        |0  |1  |0.063    |0.128 |0.689    |0.992 |2976 |
-|Swansea     |West Brom      |1  |0  |0.125    |0.143 |0.776    |1.014 |2973 |
-|Tottenham   |Norwich        |2  |0  |0.308    |0.109 |0.881    |0.872 |2973 |
-|Total       |               |-  |-  |-        |-     |8.552    |4.41  |2976 |
+|Aston Villa |West Ham       |2  |0  |0.049    |0.076 |0.681    |1.316 |3728 |
+|Bournemouth |Crystal Palace |2  |0  |0.04     |0.081 |0.76     |1.34  |3727 |
+|Chelsea     |Watford        |0  |0  |0.021    |0.062 |0.895    |1.903 |3726 |
+|Liverpool   |Leicester      |1  |0  |0.049    |0.099 |0.873    |1.445 |3728 |
+|Man City    |Sunderland     |3  |0  |0.273    |0.11  |1.024    |0.796 |3728 |
+|Newcastle   |Everton        |2  |0  |0.033    |0.039 |0.994    |1.755 |3724 |
+|Southampton |Arsenal        |1  |0  |0.026    |0.087 |1.266    |2.152 |3721 |
+|Stoke       |Man Utd        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Swansea     |West Brom      |1  |0  |0.122    |0.139 |0.774    |1.003 |3726 |
+|Tottenham   |Norwich        |1  |0  |0.069    |0.11  |0.883    |0.875 |3727 |
+|Total       |               |-  |-  |-        |-     |8.15     |4.4   |3728 |
 
 </sub>
 
