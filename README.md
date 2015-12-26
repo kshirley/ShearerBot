@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 17
+Week = 18
 
-2015-12-21 00:07:46
+2015-12-26 00:24:46
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Man City       |1  |0  |0.041    |0.071 |0.698    |1.281 |3819 |
-|Chelsea     |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton     |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man Utd     |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Newcastle   |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton |Tottenham      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke       |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Watford     |Liverpool      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom   |Bournemouth    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total       |               |-  |-  |-        |-     |0.698    |1.28  |3819 |
+|Aston Villa |West Ham       |2  |0  |0.048    |0.071 |0.659    |1.279 |2974 |
+|Bournemouth |Crystal Palace |2  |0  |0.037    |0.074 |0.709    |1.297 |2972 |
+|Chelsea     |Watford        |0  |0  |0.021    |0.062 |0.895    |1.903 |2973 |
+|Liverpool   |Leicester      |2  |0  |0.049    |0.073 |0.78     |1.279 |2974 |
+|Man City    |Sunderland     |2  |0  |0.21     |0.11  |1.008    |0.81  |2974 |
+|Newcastle   |Everton        |2  |0  |0.031    |0.043 |1.065    |1.804 |2974 |
+|Southampton |Arsenal        |0  |0  |0.018    |0.075 |1.09     |2.044 |2971 |
+|Stoke       |Man Utd        |0  |1  |0.063    |0.128 |0.689    |0.992 |2976 |
+|Swansea     |West Brom      |1  |0  |0.125    |0.143 |0.776    |1.014 |2973 |
+|Tottenham   |Norwich        |2  |0  |0.308    |0.109 |0.881    |0.872 |2973 |
+|Total       |               |-  |-  |-        |-     |8.552    |4.41  |2976 |
 
 </sub>
 
