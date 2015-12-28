@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 18
+Week = 19
 
-2015-12-26 09:48:14
+2015-12-27 23:47:15
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |West Ham       |2  |0  |0.049    |0.076 |0.681    |1.316 |3728 |
-|Bournemouth |Crystal Palace |2  |0  |0.04     |0.081 |0.76     |1.34  |3727 |
-|Chelsea     |Watford        |0  |0  |0.021    |0.062 |0.895    |1.903 |3726 |
-|Liverpool   |Leicester      |1  |0  |0.049    |0.099 |0.873    |1.445 |3728 |
-|Man City    |Sunderland     |3  |0  |0.273    |0.11  |1.024    |0.796 |3728 |
-|Newcastle   |Everton        |2  |0  |0.033    |0.039 |0.994    |1.755 |3724 |
-|Southampton |Arsenal        |1  |0  |0.026    |0.087 |1.266    |2.152 |3721 |
-|Stoke       |Man Utd        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |West Brom      |1  |0  |0.122    |0.139 |0.774    |1.003 |3726 |
-|Tottenham   |Norwich        |1  |0  |0.069    |0.11  |0.883    |0.875 |3727 |
-|Total       |               |-  |-  |-        |-     |8.15     |4.4   |3728 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal        |Bournemouth |1  |0  |0.048    |0.102 |1.065    |1.403 |2401 |
+|Crystal Palace |Swansea     |0  |0  |0.041    |0.098 |1.244    |2.22  |2401 |
+|Everton        |Stoke       |0  |2  |0.007    |0.036 |0.822    |1.673 |2401 |
+|Leicester      |Man City    |0  |1  |0.047    |0.074 |0.795    |1.28  |2395 |
+|Man Utd        |Chelsea     |2  |0  |0.048    |0.073 |0.689    |1.297 |2402 |
+|Norwich        |Aston Villa |0  |2  |0.029    |0.044 |0.998    |1.796 |2402 |
+|Sunderland     |Liverpool   |0  |0  |0.038    |0.076 |1.041    |2.039 |2394 |
+|Watford        |Tottenham   |0  |1  |0.05     |0.113 |0.701    |0.941 |2401 |
+|West Brom      |Newcastle   |1  |0  |0.188    |0.127 |0.711    |0.983 |2402 |
+|West Ham       |Southampton |0  |1  |0.064    |0.109 |0.631    |0.943 |2402 |
+|Total          |            |-  |-  |-        |-     |8.697    |4.81  |2402 |
 
 </sub>
 
