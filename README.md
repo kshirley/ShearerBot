@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 20
 
-2016-01-01 09:56:38
+2016-01-02 09:42:38
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal        |Newcastle   |1  |0  |0.048    |0.1   |1.16     |1.349 |2286 |
-|Crystal Palace |Chelsea     |0  |1  |0.059    |0.127 |0.729    |0.98  |2273 |
-|Everton        |Tottenham   |0  |1  |0.034    |0.075 |0.68     |1.308 |2274 |
-|Leicester      |Bournemouth |2  |2  |0.043    |0.062 |1.017    |1.934 |2286 |
-|Man Utd        |Swansea     |1  |1  |0.112    |0.106 |0.947    |1.734 |2286 |
-|Norwich        |Southampton |0  |1  |0.074    |0.101 |0.622    |0.916 |2285 |
-|Sunderland     |Aston Villa |0  |2  |0.031    |0.056 |1.161    |1.922 |2286 |
-|Watford        |Man City    |0  |1  |0.049    |0.093 |0.949    |1.384 |2286 |
-|West Brom      |Stoke       |2  |0  |0.037    |0.063 |1.265    |1.991 |2283 |
-|West Ham       |Liverpool   |0  |1  |0.078    |0.119 |0.706    |0.961 |2290 |
-|Total          |            |-  |-  |-        |-     |9.236    |4.75  |2290 |
+|Arsenal        |Newcastle   |1  |0  |0.049    |0.086 |1.124    |1.256 |3594 |
+|Crystal Palace |Chelsea     |0  |1  |0.061    |0.124 |0.718    |0.972 |3540 |
+|Everton        |Tottenham   |0  |1  |0.034    |0.081 |0.706    |1.353 |3540 |
+|Leicester      |Bournemouth |0  |0  |0.02     |0.067 |1.021    |1.974 |3595 |
+|Man Utd        |Swansea     |3  |0  |0.049    |0.084 |0.97     |1.305 |3595 |
+|Norwich        |Southampton |0  |1  |0.073    |0.102 |0.595    |0.924 |3596 |
+|Sunderland     |Aston Villa |0  |2  |0.039    |0.055 |1.151    |1.915 |3594 |
+|Watford        |Man City    |0  |1  |0.047    |0.094 |0.956    |1.386 |3592 |
+|West Brom      |Stoke       |2  |0  |0.043    |0.063 |1.269    |1.99  |3594 |
+|West Ham       |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total          |            |-  |-  |-        |-     |8.51     |4.51  |3596 |
 
 </sub>
 
