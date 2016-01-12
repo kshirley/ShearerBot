@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 20
+Week = 21
 
-2016-01-02 09:42:38
+2016-01-12 00:36:51
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal        |Newcastle   |1  |0  |0.049    |0.086 |1.124    |1.256 |3594 |
-|Crystal Palace |Chelsea     |0  |1  |0.061    |0.124 |0.718    |0.972 |3540 |
-|Everton        |Tottenham   |0  |1  |0.034    |0.081 |0.706    |1.353 |3540 |
-|Leicester      |Bournemouth |0  |0  |0.02     |0.067 |1.021    |1.974 |3595 |
-|Man Utd        |Swansea     |3  |0  |0.049    |0.084 |0.97     |1.305 |3595 |
-|Norwich        |Southampton |0  |1  |0.073    |0.102 |0.595    |0.924 |3596 |
-|Sunderland     |Aston Villa |0  |2  |0.039    |0.055 |1.151    |1.915 |3594 |
-|Watford        |Man City    |0  |1  |0.047    |0.094 |0.956    |1.386 |3592 |
-|West Brom      |Stoke       |2  |0  |0.043    |0.063 |1.269    |1.99  |3594 |
-|West Ham       |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total          |            |-  |-  |-        |-     |8.51     |4.51  |3596 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Aston Villa |Crystal Palace |2  |0  |0.036    |0.056 |1.159    |1.924 |2439 |
+|Bournemouth |West Ham       |1  |0  |0.083    |0.118 |0.691    |0.961 |2440 |
+|Swansea     |Sunderland     |1  |0  |0.173    |0.14  |0.817    |0.994 |2420 |
+|Liverpool   |Arsenal        |1  |0  |0.044    |0.08  |0.656    |1.354 |2419 |
+|Chelsea     |West Brom      |0  |0  |0.025    |0.083 |1.014    |2.081 |2420 |
+|Man City    |Everton        |3  |0  |0.035    |0.07  |0.908    |1.22  |2422 |
+|Newcastle   |Man Utd        |0  |1  |0.126    |0.131 |0.797    |0.973 |2441 |
+|Southampton |Watford        |1  |0  |0.121    |0.118 |0.726    |0.953 |2421 |
+|Stoke       |Norwich        |0  |0  |0.049    |0.093 |1.191    |2.185 |2420 |
+|Tottenham   |Leicester      |0  |1  |0.047    |0.054 |0.867    |1.831 |2419 |
+|Total       |               |-  |-  |-        |-     |8.826    |4.82  |2441 |
 
 </sub>
 
