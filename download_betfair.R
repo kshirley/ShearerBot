@@ -23,7 +23,7 @@ download.betfair <- function(game.id, week, out.dir) {
   if (length(grep("error-page error-page-plain", betfair.raw)) == 0) {
     z1 <- gregexpr("<span class=\"runner-name\">[0-9]{1,2} - [0-9]{1,2}</span>", 
                    betfair.raw)
-    z2 <- gregexpr("ui-fraction-price\">\n[0-9]{1,4}/[0-9]{1,4}", betfair.raw)
+    z2 <- gregexpr("ui-fraction-price\"> [0-9]{1,4}/[0-9]{1,4} ", betfair.raw)
     match.length <- attr(z1[[1]], "match.length")
     match.length2 <- attr(z2[[1]], "match.length")
     l <- length(match.length)
@@ -42,7 +42,7 @@ download.betfair <- function(game.id, week, out.dir) {
         } else {
   	      tmp <- substr(betfair.raw, z2[[1]][index], z2[[1]][index] + 
   	                    match.length2[index] - 1)
-  	      odds[j] <- gsub("ui-fraction-price\">\n", "", tmp)
+  	      odds[j] <- gsub("ui-fraction-price\"> ", "", tmp)
   	    }
       }
       df <- data.frame(score, odds, stringsAsFactors=FALSE)

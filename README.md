@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 21
+Week = 22
 
-2016-01-13 00:07:09
+2016-01-15 22:57:02
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Bournemouth |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |Sunderland     |1  |0  |0.165    |0.14  |0.802    |0.998 |3267 |
-|Liverpool   |Arsenal        |1  |0  |0.045    |0.085 |1.342    |2.148 |3267 |
-|Chelsea     |West Brom      |1  |0  |0.073    |0.142 |0.971    |0.939 |3271 |
-|Man City    |Everton        |1  |0  |0.046    |0.084 |0.959    |1.313 |3272 |
-|Newcastle   |Man Utd        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton |Watford        |1  |0  |0.113    |0.117 |0.726    |0.95  |3270 |
-|Stoke       |Norwich        |0  |0  |0.045    |0.098 |1.249    |2.223 |3268 |
-|Tottenham   |Leicester      |0  |1  |0.044    |0.053 |0.854    |1.818 |3267 |
-|Total       |               |-  |-  |-        |-     |6.903    |4.17  |3272 |
+|Aston Villa |Leicester      |0  |0  |0.043    |0.091 |1.204    |2.173 |2520 |
+|Bournemouth |Norwich        |0  |1  |0.053    |0.076 |0.782    |1.58  |2524 |
+|Chelsea     |Everton        |3  |1  |0.043    |0.062 |0.777    |1.191 |2525 |
+|Liverpool   |Man Utd        |1  |0  |0.05     |0.116 |0.663    |0.958 |2509 |
+|Man City    |Crystal Palace |2  |0  |0.239    |0.115 |0.925    |0.87  |2525 |
+|Newcastle   |West Ham       |1  |0  |0.076    |0.096 |0.591    |0.904 |2523 |
+|Southampton |West Brom      |1  |0  |0.145    |0.151 |0.871    |1.011 |2523 |
+|Stoke       |Arsenal        |0  |1  |0.052    |0.109 |0.714    |0.926 |2504 |
+|Swansea     |Watford        |1  |0  |0.083    |0.116 |0.629    |0.963 |2502 |
+|Tottenham   |Sunderland     |2  |0  |0.29     |0.127 |0.967    |0.892 |2528 |
+|Total       |               |-  |-  |-        |-     |8.123    |3.84  |2528 |
 
 </sub>
 
