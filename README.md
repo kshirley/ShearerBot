@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 22
+Week = 23
 
-2016-01-16 20:17:09
+2016-01-23 01:58:50
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Bournemouth |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Chelsea     |Everton        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Liverpool   |Man Utd        |0  |1  |0.046    |0.093 |0.678    |1.443 |3445 |
-|Man City    |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Newcastle   |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton |West Brom      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke       |Arsenal        |0  |1  |0.051    |0.108 |0.712    |0.924 |3442 |
-|Swansea     |Watford        |1  |0  |0.08     |0.116 |0.631    |0.964 |3437 |
-|Tottenham   |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total       |               |-  |-  |-        |-     |2.021    |1.97  |3445 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal        |Chelsea     |0  |1  |0.049    |0.073 |1.064    |2.029 |2742 |
+|Crystal Palace |Tottenham   |2  |0  |0.025    |0.049 |1.01     |1.839 |2759 |
+|Everton        |Swansea     |0  |0  |0.031    |0.084 |1.107    |2.106 |2742 |
+|Leicester      |Stoke       |0  |1  |0.056    |0.087 |0.979    |1.686 |2758 |
+|Man Utd        |Southampton |1  |0  |0.144    |0.14  |0.803    |1     |2757 |
+|Norwich        |Liverpool   |2  |0  |0.023    |0.04  |0.82     |1.703 |2763 |
+|Sunderland     |Bournemouth |0  |2  |0.049    |0.069 |0.66     |1.268 |2755 |
+|Watford        |Newcastle   |1  |0  |0.091    |0.115 |0.694    |0.949 |2754 |
+|West Brom      |Aston Villa |0  |1  |0.065    |0.091 |0.926    |1.682 |2752 |
+|West Ham       |Man City    |0  |0  |0.025    |0.063 |0.979    |1.931 |2754 |
+|Total          |            |-  |-  |-        |-     |9.042    |5.27  |2763 |
 
 </sub>
 
