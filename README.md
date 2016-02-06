@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 24
+Week = 25
 
-2016-02-02 22:40:20
+2016-02-05 22:09:59
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal        |Southampton |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Leicester      |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Norwich        |Tottenham   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Sunderland     |Man City    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Watford        |Chelsea     |0  |0  |0.018    |0.1   |1.218    |2.23  |3385 |
-|West Ham       |Aston Villa |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |Bournemouth |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man Utd        |Stoke       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Swansea     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton        |Newcastle   |3  |0  |0.04     |0.062 |0.829    |1.176 |3386 |
-|Total          |            |-  |-  |-        |-     |2.047    |2.52  |3386 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Aston Villa |Norwich        |1  |0  |0.155    |0.119 |0.642    |0.971 |2542 |
+|Bournemouth |Arsenal        |0  |0  |0.028    |0.091 |1.158    |2.161 |2529 |
+|Chelsea     |Man Utd        |1  |0  |0.088    |0.12  |0.689    |0.968 |2531 |
+|Liverpool   |Sunderland     |2  |0  |0.297    |0.119 |0.908    |0.892 |2547 |
+|Man City    |Leicester      |3  |0  |0.032    |0.067 |0.88     |1.199 |2549 |
+|Newcastle   |West Brom      |0  |2  |0.035    |0.048 |1.016    |1.831 |2545 |
+|Southampton |West Ham       |1  |0  |0.082    |0.134 |0.807    |0.979 |2544 |
+|Stoke       |Everton        |0  |2  |0.049    |0.054 |0.562    |1.156 |2544 |
+|Swansea     |Crystal Palace |1  |0  |0.127    |0.131 |0.679    |1.003 |2545 |
+|Tottenham   |Watford        |0  |0  |0.03     |0.068 |0.917    |1.952 |2545 |
+|Total       |               |-  |-  |-        |-     |8.258    |4.39  |2549 |
 
 </sub>
 
