@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 25
+Week = 26
 
-2016-02-06 09:44:57
+2016-02-13 00:14:43
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |Norwich        |1  |0  |0.153    |0.117 |0.629    |0.967 |3374 |
-|Bournemouth |Arsenal        |0  |0  |0.025    |0.091 |1.214    |2.172 |3312 |
-|Chelsea     |Man Utd        |1  |0  |0.083    |0.121 |0.692    |0.969 |3314 |
-|Liverpool   |Sunderland     |2  |0  |0.302    |0.119 |0.908    |0.893 |3377 |
-|Man City    |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Newcastle   |West Brom      |0  |1  |0.055    |0.086 |0.965    |1.681 |3375 |
-|Southampton |West Ham       |1  |0  |0.085    |0.137 |0.825    |0.982 |3373 |
-|Stoke       |Everton        |0  |1  |0.049    |0.089 |0.726    |1.408 |3373 |
-|Swansea     |Crystal Palace |1  |0  |0.127    |0.13  |0.69     |0.998 |3374 |
-|Tottenham   |Watford        |0  |0  |0.029    |0.068 |0.939    |1.958 |3374 |
-|Total       |               |-  |-  |-        |-     |7.588    |4.24  |3377 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal        |Leicester   |3  |0  |0.024    |0.062 |0.804    |1.182 |2619 |
+|Aston Villa    |Liverpool   |0  |0  |0.033    |0.108 |1.256    |2.286 |2620 |
+|Bournemouth    |Stoke       |1  |0  |0.107    |0.12  |0.695    |0.967 |2637 |
+|Chelsea        |Newcastle   |2  |0  |0.304    |0.113 |0.906    |0.874 |2639 |
+|Crystal Palace |Watford     |1  |0  |0.117    |0.126 |0.699    |0.985 |2637 |
+|Everton        |West Brom   |0  |0  |0.034    |0.068 |0.899    |1.944 |2636 |
+|Man City       |Tottenham   |1  |0  |0.048    |0.085 |0.796    |1.367 |2621 |
+|Norwich        |West Ham    |2  |0  |0.046    |0.069 |0.663    |1.269 |2638 |
+|Sunderland     |Man Utd     |0  |0  |0.041    |0.102 |1.189    |2.236 |2639 |
+|Swansea        |Southampton |0  |1  |0.094    |0.117 |0.639    |0.965 |2634 |
+|Total          |            |-  |-  |-        |-     |8.546    |4.74  |2639 |
 
 </sub>
 
