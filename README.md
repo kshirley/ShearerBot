@@ -5,23 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 27
+Week = 28
 
-2016-02-26 23:50:01
+2016-02-29 23:36:50
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Leicester   |Norwich        |0  |0  |0.019    |0.061 |0.948    |1.915 |2665 |
-|Man Utd     |Arsenal        |1  |0  |0.047    |0.097 |0.684    |1.468 |2654 |
-|Southampton |Chelsea        |2  |0  |0.042    |0.062 |1.22     |1.98  |2666 |
-|Stoke       |Aston Villa    |0  |0  |0.042    |0.099 |1.147    |2.213 |2664 |
-|Tottenham   |Swansea        |1  |0  |0.061    |0.147 |0.958    |0.962 |2655 |
-|Watford     |Bournemouth    |0  |2  |0.029    |0.055 |1.115    |1.912 |2665 |
-|West Brom   |Crystal Palace |1  |1  |0.255    |0.148 |0.613    |1.061 |2663 |
-|West Ham    |Sunderland     |0  |0  |0.03     |0.075 |1.094    |2.045 |2664 |
-|Total       |               |-  |-  |-        |-     |7.779    |4.95  |2666 |
+|Arsenal     |Swansea        |2  |0  |0.334    |0.138 |0.982    |0.919 |1794 |
+|Aston Villa |Everton        |0  |0  |0.028    |0.088 |1.155    |2.141 |1808 |
+|Bournemouth |Southampton    |2  |0  |0.03     |0.062 |1.216    |1.978 |1807 |
+|Leicester   |West Brom      |0  |0  |0.045    |0.093 |1.153    |2.179 |1809 |
+|Norwich     |Chelsea        |0  |0  |0.023    |0.068 |1.03     |1.981 |1807 |
+|Sunderland  |Crystal Palace |1  |0  |0.165    |0.122 |0.616    |0.983 |1807 |
+|West Ham    |Tottenham      |1  |0  |0.046    |0.074 |1.05     |2.028 |1794 |
+|Liverpool   |Man City       |0  |1  |0.049    |0.088 |0.706    |1.406 |1793 |
+|Man Utd     |Watford        |0  |0  |0.031    |0.092 |1.104    |2.159 |1795 |
+|Stoke       |Newcastle      |0  |1  |0.052    |0.074 |0.856    |1.604 |1795 |
+|Total       |               |-  |-  |-        |-     |9.868    |5.68  |1809 |
 
 </sub>
 
