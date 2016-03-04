@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 28
+Week = 29
 
-2016-03-01 14:38:19
+2016-03-04 09:18:58
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Swansea        |2  |0  |0.358    |0.139 |0.987    |0.919 |2864 |
-|Aston Villa |Everton        |0  |0  |0.024    |0.084 |1.067    |2.103 |2970 |
-|Bournemouth |Southampton    |2  |0  |0.034    |0.062 |1.245    |1.981 |2971 |
-|Leicester   |West Brom      |1  |1  |0.093    |0.116 |0.972    |1.769 |2972 |
-|Norwich     |Chelsea        |0  |0  |0.022    |0.074 |1.089    |2.035 |2970 |
-|Sunderland  |Crystal Palace |1  |0  |0.149    |0.122 |0.625    |0.983 |2971 |
-|West Ham    |Tottenham      |1  |0  |0.049    |0.073 |1.045    |2.025 |2861 |
-|Liverpool   |Man City       |0  |1  |0.049    |0.087 |0.708    |1.394 |2861 |
-|Man Utd     |Watford        |0  |0  |0.03     |0.092 |1.098    |2.162 |2861 |
-|Stoke       |Newcastle      |0  |1  |0.049    |0.074 |1.018    |2.022 |2862 |
-|Total       |               |-  |-  |-        |-     |9.854    |5.68  |2972 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Stoke       |2  |0  |0.317    |0.127 |0.906    |0.921 |1652 |
+|Crystal Palace |Liverpool   |1  |0  |0.053    |0.082 |0.937    |1.66  |1646 |
+|Everton        |West Ham    |3  |1  |0.038    |0.067 |0.822    |1.215 |1651 |
+|Man City       |Aston Villa |1  |0  |0.049    |0.105 |1.224    |1.349 |1653 |
+|Newcastle      |Bournemouth |1  |1  |0.212    |0.141 |0.583    |1.044 |1651 |
+|Southampton    |Sunderland  |3  |0  |0.039    |0.068 |0.884    |1.211 |1650 |
+|Swansea        |Norwich     |0  |1  |0.05     |0.082 |0.896    |1.645 |1650 |
+|Tottenham      |Arsenal     |1  |0  |0.051    |0.092 |0.606    |0.89  |1657 |
+|Watford        |Leicester   |2  |0  |0.032    |0.055 |1.157    |1.917 |1649 |
+|West Brom      |Man Utd     |1  |0  |0.063    |0.087 |0.84     |1.637 |1646 |
+|Total          |            |-  |-  |-        |-     |8.855    |4.39  |1657 |
 
 </sub>
 
