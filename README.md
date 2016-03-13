@@ -5,25 +5,20 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 29
+Week = 30
 
-2016-03-04 09:18:58
+2016-03-12 21:24:43
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Stoke       |2  |0  |0.317    |0.127 |0.906    |0.921 |1652 |
-|Crystal Palace |Liverpool   |1  |0  |0.053    |0.082 |0.937    |1.66  |1646 |
-|Everton        |West Ham    |3  |1  |0.038    |0.067 |0.822    |1.215 |1651 |
-|Man City       |Aston Villa |1  |0  |0.049    |0.105 |1.224    |1.349 |1653 |
-|Newcastle      |Bournemouth |1  |1  |0.212    |0.141 |0.583    |1.044 |1651 |
-|Southampton    |Sunderland  |3  |0  |0.039    |0.068 |0.884    |1.211 |1650 |
-|Swansea        |Norwich     |0  |1  |0.05     |0.082 |0.896    |1.645 |1650 |
-|Tottenham      |Arsenal     |1  |0  |0.051    |0.092 |0.606    |0.89  |1657 |
-|Watford        |Leicester   |2  |0  |0.032    |0.055 |1.157    |1.917 |1649 |
-|West Brom      |Man Utd     |1  |0  |0.063    |0.087 |0.84     |1.637 |1646 |
-|Total          |            |-  |-  |-        |-     |8.855    |4.39  |1657 |
+|Home        |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Aston Villa |Tottenham   |0  |2  |0.256    |0.135 |0.943    |0.929 |3255 |
+|Bournemouth |Swansea     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Leicester   |Newcastle   |0  |0  |0.032    |0.063 |0.923    |1.917 |3249 |
+|Norwich     |Man City    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Stoke       |Southampton |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total       |            |-  |-  |-        |-     |1.866    |2.13  |3255 |
 
 </sub>
 
