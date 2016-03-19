@@ -5,20 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 30
+Week = 31
 
-2016-03-12 21:24:43
+2016-03-18 21:34:20
 <sub>
 
 
-|Home        |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa |Tottenham   |0  |2  |0.256    |0.135 |0.943    |0.929 |3255 |
-|Bournemouth |Swansea     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Leicester   |Newcastle   |0  |0  |0.032    |0.063 |0.923    |1.917 |3249 |
-|Norwich     |Man City    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke       |Southampton |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total       |            |-  |-  |-        |-     |1.866    |2.13  |3255 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |West Ham    |1  |0  |0.058    |0.116 |0.775    |0.933 |2367 |
+|Crystal Palace |Leicester   |2  |0  |0.039    |0.056 |1.105    |1.913 |2365 |
+|Everton        |Arsenal     |0  |1  |0.047    |0.077 |0.675    |1.328 |2369 |
+|Man City       |Man Utd     |0  |1  |0.049    |0.066 |0.956    |1.949 |2348 |
+|Newcastle      |Sunderland  |0  |1  |0.048    |0.074 |1.053    |2.03  |2351 |
+|Southampton    |Liverpool   |0  |0  |0.04     |0.099 |0.706    |1.478 |2346 |
+|Swansea        |Aston Villa |0  |0  |0.049    |0.093 |1.132    |2.171 |2363 |
+|Tottenham      |Bournemouth |2  |0  |0.278    |0.113 |0.869    |0.89  |2347 |
+|Watford        |Stoke       |1  |0  |0.151    |0.126 |0.645    |0.994 |2364 |
+|West Brom      |Norwich     |0  |1  |0.055    |0.099 |1.014    |1.733 |2363 |
+|Total          |            |-  |-  |-        |-     |8.93     |5.09  |2369 |
 
 </sub>
 
