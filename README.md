@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 31
+Week = 32
 
-2016-03-19 10:13:11
+2016-04-01 23:57:33
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |West Ham    |1  |0  |0.055    |0.114 |0.756    |0.932 |3192 |
-|Crystal Palace |Leicester   |2  |0  |0.039    |0.055 |1.116    |1.911 |3191 |
-|Everton        |Arsenal     |0  |2  |0.034    |0.435 |2.68     |2.05  |3140 |
-|Man City       |Man Utd     |0  |1  |0.049    |0.064 |0.931    |1.93  |3128 |
-|Newcastle      |Sunderland  |0  |0  |0.045    |0.1   |0.694    |1.49  |3131 |
-|Southampton    |Liverpool   |0  |0  |0.037    |0.098 |0.697    |1.471 |3126 |
-|Swansea        |Aston Villa |0  |0  |0.049    |0.105 |1.229    |2.263 |3185 |
-|Tottenham      |Bournemouth |2  |0  |0.281    |0.113 |0.868    |0.892 |3127 |
-|Watford        |Stoke       |1  |0  |0.138    |0.136 |0.687    |1.015 |3190 |
-|West Brom      |Norwich     |0  |2  |0.034    |0.052 |1.101    |1.886 |3190 |
-|Total          |            |-  |-  |-        |-     |10.759   |5.23  |3192 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Watford        |2  |0  |0.291    |0.127 |0.973    |0.888 |2570 |
+|Aston Villa |Chelsea        |0  |0  |0.025    |0.091 |1.09     |2.149 |2573 |
+|Bournemouth |Man City       |1  |0  |0.049    |0.066 |1.01     |1.967 |2570 |
+|Leicester   |Southampton    |0  |2  |0.028    |0.051 |1.053    |1.865 |2563 |
+|Liverpool   |Tottenham      |1  |0  |0.049    |0.089 |0.745    |1.402 |2569 |
+|Man Utd     |Everton        |1  |0  |0.098    |0.12  |0.703    |0.965 |2563 |
+|Norwich     |Newcastle      |1  |0  |0.121    |0.127 |0.661    |0.992 |2570 |
+|Stoke       |Swansea        |0  |1  |0.049    |0.092 |1.161    |2.172 |2569 |
+|Sunderland  |West Brom      |0  |1  |0.064    |0.094 |0.981    |1.708 |2570 |
+|West Ham    |Crystal Palace |0  |0  |0.031    |0.075 |1.096    |2.048 |2570 |
+|Total       |               |-  |-  |-        |-     |9.473    |5.34  |2573 |
 
 </sub>
 
