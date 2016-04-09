@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 32
+Week = 33
 
-2016-04-01 23:57:33
+2016-04-09 09:52:34
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Watford        |2  |0  |0.291    |0.127 |0.973    |0.888 |2570 |
-|Aston Villa |Chelsea        |0  |0  |0.025    |0.091 |1.09     |2.149 |2573 |
-|Bournemouth |Man City       |1  |0  |0.049    |0.066 |1.01     |1.967 |2570 |
-|Leicester   |Southampton    |0  |2  |0.028    |0.051 |1.053    |1.865 |2563 |
-|Liverpool   |Tottenham      |1  |0  |0.049    |0.089 |0.745    |1.402 |2569 |
-|Man Utd     |Everton        |1  |0  |0.098    |0.12  |0.703    |0.965 |2563 |
-|Norwich     |Newcastle      |1  |0  |0.121    |0.127 |0.661    |0.992 |2570 |
-|Stoke       |Swansea        |0  |1  |0.049    |0.092 |1.161    |2.172 |2569 |
-|Sunderland  |West Brom      |0  |1  |0.064    |0.094 |0.981    |1.708 |2570 |
-|West Ham    |Crystal Palace |0  |0  |0.031    |0.075 |1.096    |2.048 |2570 |
-|Total       |               |-  |-  |-        |-     |9.473    |5.34  |2573 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Aston Villa    |Bournemouth |0  |1  |0.137    |0.123 |0.715    |0.971 |3234 |
+|Crystal Palace |Norwich     |0  |1  |0.051    |0.076 |0.784    |1.579 |3235 |
+|Liverpool      |Stoke       |1  |0  |0.088    |0.136 |0.879    |0.96  |3171 |
+|Man City       |West Brom   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Southampton    |Newcastle   |0  |0  |0.026    |0.068 |1.027    |1.983 |3229 |
+|Sunderland     |Leicester   |1  |0  |0.069    |0.093 |0.94     |1.693 |3173 |
+|Swansea        |Chelsea     |1  |0  |0.026    |0.101 |1.333    |2.248 |3233 |
+|Tottenham      |Man Utd     |1  |0  |0.065    |0.129 |0.752    |0.98  |3170 |
+|Watford        |Everton     |0  |1  |0.075    |0.098 |0.639    |0.904 |3232 |
+|West Ham       |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total          |            |-  |-  |-        |-     |7.069    |4.24  |3235 |
 
 </sub>
 

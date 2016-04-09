@@ -8,7 +8,7 @@ gc()
 setwd("~/Stats/ShearerBot")
 
 # set the week and some local directories to store output:
-week <- "32"
+week <- "33"
 ptp.out.dir <- "~/Stats/ptp/ptp-raw"
 betfair.out.dir <- "~/Stats/ptp/betfair-raw"
 betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
@@ -30,8 +30,8 @@ source("download_betfair.R")
 source("make_pick.R")
 
 # set the vector of game ID numbers from predictthepremiership.com:
-id.vec <- (as.numeric(week) - 1)*10 + 1:10
-#id.vec <- c(292, 293, 294, 297, 298)
+#id.vec <- (as.numeric(week) - 1)*10 + 1:10
+id.vec <- c(321:330)
 n.games <- length(id.vec)
 
 # download the table of aggregated predictions:
@@ -51,7 +51,7 @@ if (n.games != n.betfair) {
 
 # Download the betfair odds:
 betfair <- as.list(rep(NA, n.betfair))
-for (i in 1:n.betfair) {
+for (i in 8:n.betfair) {
   print(i)
   betfair[[i]] <- download.betfair(betfair.id[i], week, 
                                    out.dir = betfair.out.dir)
