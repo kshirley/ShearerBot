@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 33
+Week = 34
 
-2016-04-09 09:52:34
+2016-04-16 08:36:23
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa    |Bournemouth |0  |1  |0.137    |0.123 |0.715    |0.971 |3234 |
-|Crystal Palace |Norwich     |0  |1  |0.051    |0.076 |0.784    |1.579 |3235 |
-|Liverpool      |Stoke       |1  |0  |0.088    |0.136 |0.879    |0.96  |3171 |
-|Man City       |West Brom   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton    |Newcastle   |0  |0  |0.026    |0.068 |1.027    |1.983 |3229 |
-|Sunderland     |Leicester   |1  |0  |0.069    |0.093 |0.94     |1.693 |3173 |
-|Swansea        |Chelsea     |1  |0  |0.026    |0.101 |1.333    |2.248 |3233 |
-|Tottenham      |Man Utd     |1  |0  |0.065    |0.129 |0.752    |0.98  |3170 |
-|Watford        |Everton     |0  |1  |0.075    |0.098 |0.639    |0.904 |3232 |
-|West Ham       |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total          |            |-  |-  |-        |-     |7.069    |4.24  |3235 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Crystal Palace |2  |0  |0.324    |0.125 |0.963    |0.887 |3014 |
+|Bournemouth |Liverpool      |1  |0  |0.048    |0.073 |1.104    |2.032 |3014 |
+|Chelsea     |Man City       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Everton     |Southampton    |0  |2  |0.048    |0.069 |0.665    |1.269 |3077 |
+|Leicester   |West Ham       |0  |1  |0.049    |0.067 |0.996    |1.968 |3013 |
+|Man Utd     |Aston Villa    |2  |0  |0.263    |0.163 |1.097    |0.932 |3076 |
+|Newcastle   |Swansea        |2  |0  |0.049    |0.076 |0.713    |1.315 |3076 |
+|Norwich     |Sunderland     |0  |2  |0.044    |0.117 |1.026    |1.518 |3042 |
+|Stoke       |Tottenham      |1  |0  |0.05     |0.068 |0.804    |1.565 |2972 |
+|West Brom   |Watford        |0  |1  |0.056    |0.1   |1.058    |1.749 |3075 |
+|Total       |               |-  |-  |-        |-     |8.426    |4.56  |3077 |
 
 </sub>
 
