@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 34
 
-2016-04-16 08:36:23
+2016-04-16 22:53:34
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Crystal Palace |2  |0  |0.324    |0.125 |0.963    |0.887 |3014 |
-|Bournemouth |Liverpool      |1  |0  |0.048    |0.073 |1.104    |2.032 |3014 |
+|Arsenal     |Crystal Palace |2  |0  |0.322    |0.124 |0.954    |0.888 |3143 |
+|Bournemouth |Liverpool      |1  |0  |0.048    |0.082 |1.273    |2.119 |3144 |
 |Chelsea     |Man City       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton     |Southampton    |0  |2  |0.048    |0.069 |0.665    |1.269 |3077 |
-|Leicester   |West Ham       |0  |1  |0.049    |0.067 |0.996    |1.968 |3013 |
-|Man Utd     |Aston Villa    |2  |0  |0.263    |0.163 |1.097    |0.932 |3076 |
-|Newcastle   |Swansea        |2  |0  |0.049    |0.076 |0.713    |1.315 |3076 |
-|Norwich     |Sunderland     |0  |2  |0.044    |0.117 |1.026    |1.518 |3042 |
-|Stoke       |Tottenham      |1  |0  |0.05     |0.068 |0.804    |1.565 |2972 |
-|West Brom   |Watford        |0  |1  |0.056    |0.1   |1.058    |1.749 |3075 |
-|Total       |               |-  |-  |-        |-     |8.426    |4.56  |3077 |
+|Everton     |Southampton    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Leicester   |West Ham       |0  |1  |0.05     |0.073 |0.888    |1.615 |3142 |
+|Man Utd     |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Newcastle   |Swansea        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Norwich     |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Stoke       |Tottenham      |0  |0  |0.017    |0.074 |1.037    |2.03  |3091 |
+|West Brom   |Watford        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total       |               |-  |-  |-        |-     |4.152    |3.47  |3144 |
 
 </sub>
 
