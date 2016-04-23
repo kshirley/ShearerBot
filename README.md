@@ -5,20 +5,22 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 34b
+Week = 35
 
-2016-04-18 20:02:45
+2016-04-22 21:52:22
 <sub>
 
 
-|Home      |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:---------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Newcastle |Man City       |1  |1  |0.07     |0.104 |0.876    |1.702 |3087 |
-|West Ham  |Watford        |0  |0  |0.026    |0.061 |0.917    |1.906 |3048 |
-|Liverpool |Everton        |1  |2  |0.049    |0.052 |0.86     |1.816 |3035 |
-|Man Utd   |Crystal Palace |0  |0  |0.035    |0.075 |0.974    |2.019 |3048 |
-|Arsenal   |West Brom      |2  |0  |0.334    |0.136 |1.038    |0.88  |3166 |
-|Total     |               |-  |-  |-        |-     |4.665    |3.83  |3166 |
+|Home        |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man City    |Stoke       |2  |0  |0.276    |0.137 |1.041    |0.883 |2168 |
+|Aston Villa |Southampton |0  |0  |0.036    |0.087 |1.043    |2.115 |2162 |
+|Bournemouth |Chelsea     |1  |0  |0.049    |0.075 |1.195    |2.065 |2163 |
+|Liverpool   |Newcastle   |1  |0  |0.049    |0.099 |1.02     |1.399 |2162 |
+|Sunderland  |Arsenal     |1  |2  |0.238    |0.098 |0.751    |0.881 |2155 |
+|Leicester   |Swansea     |1  |0  |0.239    |0.15  |0.866    |1.007 |2156 |
+|Tottenham   |West Brom   |2  |0  |0.28     |0.156 |1.101    |0.908 |2152 |
+|Total       |            |-  |-  |-        |-     |7.017    |3.75  |2168 |
 
 </sub>
 

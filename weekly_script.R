@@ -8,7 +8,7 @@ gc()
 setwd("~/Stats/ShearerBot")
 
 # set the week and some local directories to store output:
-week <- "34b"
+week <- "35"
 ptp.out.dir <- "~/Stats/ptp/ptp-raw"
 betfair.out.dir <- "~/Stats/ptp/betfair-raw"
 betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
@@ -31,7 +31,7 @@ source("make_pick.R")
 
 # set the vector of game ID numbers from predictthepremiership.com:
 #id.vec <- (as.numeric(week) - 1)*10 + 1:10
-id.vec <- c(264, 300, 262, 296, 291)
+id.vec <- c(346, 341, 342, 345, 348, 344, 349)
 n.games <- length(id.vec)
 
 # download the table of aggregated predictions:
@@ -140,7 +140,8 @@ cat("\n\n", writeup, "\n", sep = "\n", file = "README.md", append = TRUE)
 # Add, commit, and push the README.md file to the repo.
 # Enter the picks manually online
 
-
+# git commit -a -m "updated predictions"
+# git push origin master
 
 
 
