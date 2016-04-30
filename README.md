@@ -5,22 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 35
+Week = 36
 
-2016-04-23 08:47:20
+2016-04-29 23:41:23
 <sub>
 
 
-|Home        |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man City    |Stoke       |4  |0  |0.046    |0.128 |1.472    |1.362 |2889 |
-|Aston Villa |Southampton |0  |0  |0.034    |0.081 |0.999    |2.067 |2925 |
-|Bournemouth |Chelsea     |2  |0  |0.02     |0.042 |1.023    |1.787 |2928 |
-|Liverpool   |Newcastle   |1  |0  |0.049    |0.098 |1.035    |1.386 |2927 |
-|Sunderland  |Arsenal     |1  |2  |0.25     |0.097 |0.741    |0.881 |2877 |
-|Leicester   |Swansea     |0  |0  |0.047    |0.105 |1.236    |2.265 |2877 |
-|Tottenham   |West Brom   |2  |0  |0.273    |0.153 |1.092    |0.903 |2872 |
-|Total       |            |-  |-  |-        |-     |7.598    |4.24  |2928 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal     |Norwich        |2  |0  |0.295    |0.122 |1.001    |0.856 |2318 |
+|Chelsea     |Tottenham      |0  |1  |0.048    |0.081 |0.683    |1.354 |2298 |
+|Everton     |Bournemouth    |0  |1  |0.048    |0.055 |0.964    |1.874 |2319 |
+|Man Utd     |Leicester      |0  |0  |0.048    |0.11  |0.732    |1.547 |2304 |
+|Newcastle   |Crystal Palace |0  |1  |0.048    |0.074 |1.056    |2.033 |2318 |
+|Southampton |Man City       |2  |0  |0.04     |0.052 |1.215    |1.907 |2302 |
+|Stoke       |Sunderland     |1  |1  |0.249    |0.141 |0.583    |1.045 |2316 |
+|Swansea     |Liverpool      |2  |0  |0.019    |0.047 |1.064    |1.834 |2302 |
+|Watford     |Aston Villa    |1  |1  |0.081    |0.115 |0.964    |1.763 |2314 |
+|West Brom   |West Ham       |1  |0  |0.05     |0.083 |0.927    |1.66  |2317 |
+|Total       |               |-  |-  |-        |-     |9.189    |5.15  |2319 |
 
 </sub>
 
