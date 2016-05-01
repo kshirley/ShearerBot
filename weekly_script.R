@@ -5,15 +5,16 @@ rm(list=ls())
 gc()
 
 # Set the working directory to the repo:
-setwd("~/Stats/ShearerBot")
+#setwd("~/Stats/ShearerBot")
+setwd("~/Desktop/personal/ShearerBot")
 
 # set the week and some local directories to store output:
 week <- "36"
-ptp.out.dir <- "~/Stats/ptp/ptp-raw"
-betfair.out.dir <- "~/Stats/ptp/betfair-raw"
-betfair.id.input.file <- file.path("~/Stats/ptp/betfair-id", 
+ptp.out.dir <- "~/Desktop/personal/ptp/ptp-raw"
+betfair.out.dir <- "~/Desktop/personal/ptp/betfair-raw"
+betfair.id.input.file <- file.path("~/Desktop/personal/ptp/betfair-id", 
                                    paste0(week, ".txt"))
-summary.file.path <- "~/Stats/ptp/summary"
+summary.file.path <- "~/Desktop/personal/ptp/summary"
 
 # utility functions
 su <- function(x) sort(unique(x))

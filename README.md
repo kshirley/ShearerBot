@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 36
 
-2016-04-30 09:38:37
+2016-05-01 00:11:49
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Norwich        |2  |0  |0.29     |0.124 |1.025    |0.848 |2975 |
-|Chelsea     |Tottenham      |0  |1  |0.045    |0.073 |0.652    |1.3   |2909 |
-|Everton     |Bournemouth    |0  |1  |0.048    |0.065 |1.205    |1.994 |2975 |
-|Man Utd     |Leicester      |1  |0  |0.08     |0.13  |0.715    |0.992 |2916 |
-|Newcastle   |Crystal Palace |0  |1  |0.047    |0.073 |1.086    |2.028 |2975 |
-|Southampton |Man City       |2  |0  |0.036    |0.052 |1.215    |1.907 |2915 |
-|Stoke       |Sunderland     |0  |2  |0.049    |0.069 |0.664    |1.267 |2975 |
-|Swansea     |Liverpool      |1  |0  |0.049    |0.082 |1.203    |2.114 |2913 |
-|Watford     |Aston Villa    |1  |1  |0.08     |0.121 |0.993    |1.791 |2972 |
-|West Brom   |West Ham       |1  |0  |0.05     |0.077 |0.899    |1.63  |2973 |
-|Total       |               |-  |-  |-        |-     |9.657    |5.2   |2975 |
+|Arsenal     |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Chelsea     |Tottenham      |0  |1  |0.045    |0.073 |0.654    |1.298 |2996 |
+|Everton     |Bournemouth    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Man Utd     |Leicester      |1  |0  |0.08     |0.13  |0.725    |0.99  |3007 |
+|Newcastle   |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Southampton |Man City       |2  |0  |0.037    |0.052 |1.211    |1.905 |3005 |
+|Stoke       |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Swansea     |Liverpool      |2  |0  |0.021    |0.047 |1.063    |1.833 |3004 |
+|Watford     |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|West Brom   |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Total       |               |-  |-  |-        |-     |3.653    |3.11  |3007 |
 
 </sub>
 
