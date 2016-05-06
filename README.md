@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 36
+Week = 37
 
-2016-05-01 00:11:49
+2016-05-06 16:22:38
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal     |Norwich        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Chelsea     |Tottenham      |0  |1  |0.045    |0.073 |0.654    |1.298 |2996 |
-|Everton     |Bournemouth    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man Utd     |Leicester      |1  |0  |0.08     |0.13  |0.725    |0.99  |3007 |
-|Newcastle   |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton |Man City       |2  |0  |0.037    |0.052 |1.211    |1.905 |3005 |
-|Stoke       |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |Liverpool      |2  |0  |0.021    |0.047 |1.063    |1.833 |3004 |
-|Watford     |Aston Villa    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom   |West Ham       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Total       |               |-  |-  |-        |-     |3.653    |3.11  |3007 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Aston Villa    |Newcastle   |0  |0  |0.024    |0.069 |1.001    |1.98  |1958 |
+|Bournemouth    |West Brom   |0  |1  |0.05     |0.069 |0.874    |1.595 |1956 |
+|Crystal Palace |Stoke       |1  |0  |0.12     |0.128 |0.7      |0.988 |1956 |
+|Leicester      |Everton     |0  |1  |0.042    |0.053 |0.945    |1.851 |1954 |
+|Liverpool      |Watford     |2  |2  |0.04     |0.054 |0.905    |1.847 |1943 |
+|Man City       |Arsenal     |1  |0  |0.047    |0.075 |0.687    |1.308 |1942 |
+|Norwich        |Man Utd     |0  |0  |0.028    |0.082 |1.138    |2.104 |1962 |
+|Sunderland     |Chelsea     |1  |2  |0.206    |0.088 |0.586    |0.877 |1957 |
+|Tottenham      |Southampton |0  |1  |0.048    |0.063 |0.925    |1.922 |1944 |
+|West Ham       |Swansea     |2  |0  |0.282    |0.117 |0.917    |0.881 |1957 |
+|Total          |            |-  |-  |-        |-     |8.678    |5.07  |1962 |
 
 </sub>
 

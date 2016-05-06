@@ -9,7 +9,7 @@ gc()
 setwd("~/Desktop/personal/ShearerBot")
 
 # set the week and some local directories to store output:
-week <- "36"
+week <- "37"
 ptp.out.dir <- "~/Desktop/personal/ptp/ptp-raw"
 betfair.out.dir <- "~/Desktop/personal/ptp/betfair-raw"
 betfair.id.input.file <- file.path("~/Desktop/personal/ptp/betfair-id", 
