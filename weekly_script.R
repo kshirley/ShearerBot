@@ -52,7 +52,7 @@ if (n.games != n.betfair) {
 
 # Download the betfair odds:
 betfair <- as.list(rep(NA, n.betfair))
-for (i in 1:n.betfair) {
+for (i in 8:n.betfair) {
   print(i)
   betfair[[i]] <- download.betfair(betfair.id[i], week, 
                                    out.dir = betfair.out.dir)

@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 37
 
-2016-05-06 16:22:38
+2016-05-07 10:09:01
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Aston Villa    |Newcastle   |0  |0  |0.024    |0.069 |1.001    |1.98  |1958 |
-|Bournemouth    |West Brom   |0  |1  |0.05     |0.069 |0.874    |1.595 |1956 |
-|Crystal Palace |Stoke       |1  |0  |0.12     |0.128 |0.7      |0.988 |1956 |
-|Leicester      |Everton     |0  |1  |0.042    |0.053 |0.945    |1.851 |1954 |
-|Liverpool      |Watford     |2  |2  |0.04     |0.054 |0.905    |1.847 |1943 |
-|Man City       |Arsenal     |1  |0  |0.047    |0.075 |0.687    |1.308 |1942 |
-|Norwich        |Man Utd     |0  |0  |0.028    |0.082 |1.138    |2.104 |1962 |
-|Sunderland     |Chelsea     |1  |2  |0.206    |0.088 |0.586    |0.877 |1957 |
-|Tottenham      |Southampton |0  |1  |0.048    |0.063 |0.925    |1.922 |1944 |
-|West Ham       |Swansea     |2  |0  |0.282    |0.117 |0.917    |0.881 |1957 |
-|Total          |            |-  |-  |-        |-     |8.678    |5.07  |1962 |
+|Aston Villa    |Newcastle   |0  |0  |0.024    |0.068 |1.022    |1.98  |2909 |
+|Bournemouth    |West Brom   |0  |2  |0.04     |0.034 |0.874    |1.679 |2906 |
+|Crystal Palace |Stoke       |1  |0  |0.114    |0.127 |0.704    |0.986 |2907 |
+|Leicester      |Everton     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Liverpool      |Watford     |2  |2  |0.043    |0.054 |0.885    |1.84  |2841 |
+|Man City       |Arsenal     |1  |0  |0.045    |0.073 |0.677    |1.299 |2839 |
+|Norwich        |Man Utd     |0  |0  |0.027    |0.36  |2.8      |3.262 |2867 |
+|Sunderland     |Chelsea     |1  |2  |0.215    |0.092 |0.605    |0.89  |2906 |
+|Tottenham      |Southampton |0  |1  |0.047    |0.062 |0.991    |1.928 |2840 |
+|West Ham       |Swansea     |2  |0  |0.288    |0.126 |0.963    |0.89  |2906 |
+|Total          |            |-  |-  |-        |-     |9.521    |5.36  |2909 |
 
 </sub>
 
