@@ -1,5 +1,9 @@
 #1234567890123456789012345678901234567890123456789012345678901234567890123456789
 
+#game.id <- betfair.id[i]
+#week <- "37b"
+#out.dir <- betfair.out.dir
+
 ### Download betfair data to get estimates of match outcome probabilities:
 download.betfair <- function(game.id, week, out.dir) {
 
