@@ -13,7 +13,7 @@ download.betfair <- function(game.id, week, out.dir) {
 
   betfair.raw <- ""
   iter <- 1
-  while(length(gregexpr("\n", betfair.raw)[[1]]) < 6000 & iter < 4) {
+  while(length(gregexpr("\n", betfair.raw)[[1]]) < 5600 & iter < 4) {
   	print(paste0("Download Attempt #", iter))
     betfair.raw <- getURL(paste0(domain, path), ssl.verifypeer = FALSE)
     iter <- iter + 1
@@ -58,12 +58,19 @@ download.betfair <- function(game.id, week, out.dir) {
       #                function(x) as.numeric(x[2])/sum(as.numeric(x)))
       probs <- 1/(as.numeric(df[, 3]) - 1)
       tmp <- strsplit(betfair.raw, "\n")[[1]]
-      g <- grep("<h2 class=\"team-names\">", tmp)
+      #g <- grep("<h2 class=\"team-names\">", tmp)
+      #g <- grep("team-names", tmp)
+      g <- grep("<title>", tmp)
       if (length(g) > 0) {
-        teams <- unlist(strsplit(unlist(strsplit(tmp[g], "<")), ">"))[c(2, 5)]
-        teams <- gsub("C Palace", "Crystal Palace", teams)      
-        betfair <- list(teams=teams, 
-                        df=data.frame(df, probs, stringsAsFactors=FALSE))
+        #teams <- unlist(strsplit(unlist(strsplit(tmp[g], "<")), ">"))[c(2, 5)]
+        #teams <- gsub("C Palace", "Crystal Palace", teams)
+        t1 <- gsub("<title>", "", strsplit(tmp[g], " v ")[[1]][1])
+        #t2 <- gsub("</title>", "", strsplit(tmp[g], " v ")[[1]][1])
+        t2 <- gsub(" English Premier League Betting Odds \\| Betfair</title>", "", 
+                   strsplit(tmp[g], " v ")[[1]][2])
+        teams <- c(t1, t2)
+        betfair <- list(teams = teams, 
+                        df = data.frame(df, probs, stringsAsFactors = FALSE))
       } else {
         betfair <- list(teams=c("none", "none"), df=NULL)      
       }

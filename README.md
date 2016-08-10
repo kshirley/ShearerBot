@@ -5,19 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 37b
+Week = 01
 
-2016-05-10 14:46:36
+2016-08-09 22:18:46
 <sub>
 
 
-|Home       |Away    |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:----------|:-------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|West Ham   |Man Utd |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Norwich    |Watford |1  |0  |0.179    |0.121 |0.749    |0.956 |2975 |
-|Sunderland |Everton |3  |1  |0.036    |0.063 |0.779    |1.198 |2954 |
-|Liverpool  |Chelsea |3  |1  |0.049    |0.053 |0.683    |1.127 |2957 |
-|Total      |        |-  |-  |-        |-     |2.211    |1.9   |2975 |
+|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal        |Liverpool  |1  |0  |0.048    |0.097 |0.799    |1.451 |1764 |
+|Bournemouth    |Man Utd    |0  |0  |0.023    |0.093 |1.228    |2.188 |1759 |
+|Burnley        |Swansea    |2  |0  |0.047    |0.075 |0.657    |1.315 |1771 |
+|Chelsea        |West Ham   |3  |0  |0.027    |0.068 |0.863    |1.214 |1757 |
+|Crystal Palace |West Brom  |0  |1  |0.049    |0.086 |1.005    |2.098 |1769 |
+|Everton        |Tottenham  |2  |0  |0.033    |0.051 |1.151    |1.887 |1767 |
+|Hull           |Leicester  |0  |0  |0.028    |0.102 |1.244    |2.245 |1776 |
+|Man City       |Sunderland |1  |0  |0.047    |0.107 |1.219    |1.365 |1766 |
+|Middlesbrough  |Stoke      |1  |0  |0.106    |0.144 |0.714    |1.034 |1767 |
+|Southampton    |Watford    |0  |0  |0.049    |0.086 |1.132    |2.127 |1769 |
+|Total          |           |-  |-  |-        |-     |10.012   |5.53  |1776 |
 
 </sub>
 
