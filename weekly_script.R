@@ -14,7 +14,8 @@ setwd(paste0(path, "ShearerBot"))
 week <- "01"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
-betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", paste0(week, ".txt"))
+betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 
+                                   paste0(week, ".txt"))
 summary.file.path <- paste0(path, "ptp/summary-2016")
 
 # utility functions
@@ -25,14 +26,18 @@ lu <- function(x) length(unique(x))
 library(knitr)
 library(RCurl)
 library(XML)
+library(stringr)
+library(rvest)
 
 # source the main functions:
+source("get_schedule.R")
 source("get_table.R")
 source("download_betfair.R")
 source("make_pick.R")
 
 # set the vector of game ID numbers from predictthepremiership.com:
-id.vec <- (as.numeric(week) - 1)*10 + 1:10
+id.vec <- get.schedule()
+#id.vec <- (as.numeric(week) - 1)*10 + 1:10
 #id.vec <- c(350, 347, 299, 295)
 n.games <- length(id.vec)
 
@@ -106,6 +111,7 @@ x <- rbind(output.table, c("Total", "", "-", "-", "-", "-",
 
 # Format for markdown:
 kb <- kable(x)
+kb
 
 # To do: for sunday updates, only replace the predictions for sunday games.
 
