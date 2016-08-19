@@ -25,6 +25,7 @@ get.schedule <- function() {
 
   h <- read_html(html)
   id <- html_nodes(h, ".statsBtn")
-  id.vec <- as.integer(gsub("\"", "", substr(id, 92, 93)))
+  id <- html_attr(id, "href")
+  id.vec <- sapply(strsplit(id, "="), function(x) as.numeric(x[2]))
   return(id.vec)
 }

@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 01
+Week = 02
 
-2016-08-12 17:24:24
+2016-08-19 00:44:01
 <sub>
 
 
-|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Hull           |Leicester  |0  |0  |0.026    |0.093 |1.175    |2.182 |3255 |
-|Burnley        |Swansea    |1  |0  |0.11     |0.126 |0.628    |0.995 |3250 |
-|Crystal Palace |West Brom  |0  |1  |0.049    |0.083 |0.993    |2.077 |3250 |
-|Everton        |Tottenham  |2  |0  |0.028    |0.046 |1.083    |1.837 |3249 |
-|Middlesbrough  |Stoke      |1  |0  |0.115    |0.132 |0.675    |1.006 |3241 |
-|Southampton    |Watford    |0  |0  |0.047    |0.088 |1.16     |2.146 |3250 |
-|Man City       |Sunderland |1  |0  |0.046    |0.107 |1.215    |1.371 |3246 |
-|Bournemouth    |Man Utd    |0  |0  |0.02     |0.095 |1.252    |2.203 |3229 |
-|Arsenal        |Liverpool  |1  |0  |0.049    |0.087 |0.755    |1.387 |3230 |
-|Chelsea        |West Ham   |3  |0  |0.024    |0.063 |0.849    |1.182 |3225 |
-|Total          |           |-  |-  |-        |-     |9.785    |5.4   |3255 |
+|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man Utd    |Southampton    |0  |0  |0.019    |0.075 |0.982    |2.021 |2433 |
+|Stoke      |Man City       |0  |1  |0.053    |0.108 |0.787    |0.904 |2372 |
+|Burnley    |Liverpool      |0  |0  |0.021    |0.069 |0.958    |1.969 |2341 |
+|Swansea    |Hull           |0  |1  |0.045    |0.075 |0.89     |1.994 |2369 |
+|Tottenham  |Crystal Palace |2  |0  |0.323    |0.135 |0.947    |0.926 |2371 |
+|Watford    |Chelsea        |0  |0  |0.025    |0.088 |1.103    |2.132 |2366 |
+|West Brom  |Everton        |1  |0  |0.061    |0.11  |1.108    |1.789 |2366 |
+|Leicester  |Arsenal        |0  |1  |0.049    |0.077 |0.719    |1.323 |2369 |
+|Sunderland |Middlesbrough  |0  |2  |0.03     |0.063 |1.217    |1.981 |2352 |
+|West Ham   |Bournemouth    |0  |0  |0.034    |0.069 |1.103    |2.006 |2356 |
+|Total      |               |-  |-  |-        |-     |9.814    |5.57  |2433 |
 
 </sub>
 
