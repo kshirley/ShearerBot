@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 02
 
-2016-08-19 00:44:01
+2016-08-19 20:41:39
 <sub>
 
 
 |Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man Utd    |Southampton    |0  |0  |0.019    |0.075 |0.982    |2.021 |2433 |
-|Stoke      |Man City       |0  |1  |0.053    |0.108 |0.787    |0.904 |2372 |
-|Burnley    |Liverpool      |0  |0  |0.021    |0.069 |0.958    |1.969 |2341 |
-|Swansea    |Hull           |0  |1  |0.045    |0.075 |0.89     |1.994 |2369 |
-|Tottenham  |Crystal Palace |2  |0  |0.323    |0.135 |0.947    |0.926 |2371 |
-|Watford    |Chelsea        |0  |0  |0.025    |0.088 |1.103    |2.132 |2366 |
-|West Brom  |Everton        |1  |0  |0.061    |0.11  |1.108    |1.789 |2366 |
-|Leicester  |Arsenal        |0  |1  |0.049    |0.077 |0.719    |1.323 |2369 |
-|Sunderland |Middlesbrough  |0  |2  |0.03     |0.063 |1.217    |1.981 |2352 |
-|West Ham   |Bournemouth    |0  |0  |0.034    |0.069 |1.103    |2.006 |2356 |
-|Total      |               |-  |-  |-        |-     |9.814    |5.57  |2433 |
+|Man Utd    |Southampton    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Stoke      |Man City       |0  |0  |0.012    |0.063 |0.965    |1.927 |3470 |
+|Burnley    |Liverpool      |0  |0  |0.018    |0.068 |0.944    |1.958 |3430 |
+|Swansea    |Hull           |0  |1  |0.047    |0.074 |0.883    |1.987 |3452 |
+|Tottenham  |Crystal Palace |2  |0  |0.323    |0.126 |0.923    |0.908 |3451 |
+|Watford    |Chelsea        |0  |0  |0.025    |0.087 |1.129    |2.134 |3447 |
+|West Brom  |Everton        |2  |0  |0.033    |0.055 |1.069    |1.897 |3449 |
+|Leicester  |Arsenal        |0  |1  |0.044    |0.077 |0.718    |1.316 |3450 |
+|Sunderland |Middlesbrough  |0  |2  |0.033    |0.062 |1.211    |1.979 |3417 |
+|West Ham   |Bournemouth    |1  |1  |0.069    |0.128 |1.072    |1.828 |3421 |
+|Total      |               |-  |-  |-        |-     |8.914    |5.43  |3470 |
 
 </sub>
 
