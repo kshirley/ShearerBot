@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 02
+Week = 03
 
-2016-08-19 20:41:39
+2016-08-26 22:53:50
 <sub>
 
 
-|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man Utd    |Southampton    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke      |Man City       |0  |0  |0.012    |0.063 |0.965    |1.927 |3470 |
-|Burnley    |Liverpool      |0  |0  |0.018    |0.068 |0.944    |1.958 |3430 |
-|Swansea    |Hull           |0  |1  |0.047    |0.074 |0.883    |1.987 |3452 |
-|Tottenham  |Crystal Palace |2  |0  |0.323    |0.126 |0.923    |0.908 |3451 |
-|Watford    |Chelsea        |0  |0  |0.025    |0.087 |1.129    |2.134 |3447 |
-|West Brom  |Everton        |2  |0  |0.033    |0.055 |1.069    |1.897 |3449 |
-|Leicester  |Arsenal        |0  |1  |0.044    |0.077 |0.718    |1.316 |3450 |
-|Sunderland |Middlesbrough  |0  |2  |0.033    |0.062 |1.211    |1.979 |3417 |
-|West Ham   |Bournemouth    |1  |1  |0.069    |0.128 |1.072    |1.828 |3421 |
-|Total      |               |-  |-  |-        |-     |8.914    |5.43  |3470 |
+|Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Tottenham      |Liverpool     |2  |0  |0.049    |0.064 |0.63     |1.228 |3310 |
+|Chelsea        |Burnley       |2  |0  |0.384    |0.158 |1.102    |0.914 |3303 |
+|Crystal Palace |Bournemouth   |0  |1  |0.062    |0.095 |1.048    |1.732 |3302 |
+|Everton        |Stoke         |1  |0  |0.113    |0.128 |0.809    |0.959 |3300 |
+|Leicester      |Swansea       |0  |0  |0.033    |0.084 |1.091    |2.108 |3297 |
+|Southampton    |Sunderland    |1  |0  |0.142    |0.155 |0.942    |0.992 |3296 |
+|Watford        |Arsenal       |0  |0  |0.027    |0.075 |1.07     |2.043 |3298 |
+|Hull           |Man Utd       |0  |1  |0.054    |0.148 |0.964    |0.962 |3296 |
+|West Brom      |Middlesbrough |1  |0  |0.132    |0.138 |0.651    |1.026 |3276 |
+|Man City       |West Ham      |1  |0  |0.039    |0.101 |1.153    |1.358 |3276 |
+|Total          |              |-  |-  |-        |-     |9.46     |4.44  |3310 |
 
 </sub>
 

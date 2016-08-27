@@ -63,12 +63,12 @@ download.betfair <- function(game.id, week, out.dir) {
       g <- grep("<title>", tmp)
       if (length(g) > 0) {
         #teams <- unlist(strsplit(unlist(strsplit(tmp[g], "<")), ">"))[c(2, 5)]
-        #teams <- gsub("C Palace", "Crystal Palace", teams)
         t1 <- gsub("<title>", "", strsplit(tmp[g], " v ")[[1]][1])
         #t2 <- gsub("</title>", "", strsplit(tmp[g], " v ")[[1]][1])
         t2 <- gsub(" English Premier League Betting Odds \\| Betfair</title>", "", 
                    strsplit(tmp[g], " v ")[[1]][2])
         teams <- c(t1, t2)
+        teams <- gsub("C Palace", "Crystal Palace", teams)
         betfair <- list(teams = teams, 
                         df = data.frame(df, probs, stringsAsFactors = FALSE))
       } else {
