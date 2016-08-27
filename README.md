@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 03
 
-2016-08-26 22:53:50
+2016-08-27 09:35:12
 <sub>
 
 
 |Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Tottenham      |Liverpool     |2  |0  |0.049    |0.064 |0.63     |1.228 |3310 |
-|Chelsea        |Burnley       |2  |0  |0.384    |0.158 |1.102    |0.914 |3303 |
-|Crystal Palace |Bournemouth   |0  |1  |0.062    |0.095 |1.048    |1.732 |3302 |
-|Everton        |Stoke         |1  |0  |0.113    |0.128 |0.809    |0.959 |3300 |
-|Leicester      |Swansea       |0  |0  |0.033    |0.084 |1.091    |2.108 |3297 |
-|Southampton    |Sunderland    |1  |0  |0.142    |0.155 |0.942    |0.992 |3296 |
-|Watford        |Arsenal       |0  |0  |0.027    |0.075 |1.07     |2.043 |3298 |
-|Hull           |Man Utd       |0  |1  |0.054    |0.148 |0.964    |0.962 |3296 |
-|West Brom      |Middlesbrough |1  |0  |0.132    |0.138 |0.651    |1.026 |3276 |
-|Man City       |West Ham      |1  |0  |0.039    |0.101 |1.153    |1.358 |3276 |
-|Total          |              |-  |-  |-        |-     |9.46     |4.44  |3310 |
+|Tottenham      |Liverpool     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Chelsea        |Burnley       |2  |0  |0.385    |0.153 |1.086    |0.909 |3872 |
+|Crystal Palace |Bournemouth   |0  |1  |0.061    |0.088 |0.964    |1.686 |3873 |
+|Everton        |Stoke         |3  |0  |0.02     |0.064 |0.827    |1.192 |3871 |
+|Leicester      |Swansea       |0  |0  |0.035    |0.063 |0.989    |1.935 |3866 |
+|Southampton    |Sunderland    |3  |0  |0.036    |0.085 |1.005    |1.304 |3868 |
+|Watford        |Arsenal       |0  |0  |0.027    |0.068 |0.995    |1.975 |3867 |
+|Hull           |Man Utd       |0  |1  |0.052    |0.147 |0.972    |0.952 |3860 |
+|West Brom      |Middlesbrough |1  |0  |0.13     |0.136 |0.654    |1.022 |3819 |
+|Man City       |West Ham      |1  |0  |0.039    |0.1   |1.155    |1.348 |3819 |
+|Total          |              |-  |-  |-        |-     |8.647    |4.27  |3873 |
 
 </sub>
 
