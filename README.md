@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 05
 
-2016-09-16 21:35:36
+2016-09-17 09:39:38
 <sub>
 
 
 |Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
 |Chelsea        |Liverpool     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Hull           |Arsenal       |0  |0  |0.017    |0.068 |0.991    |1.972 |3380 |
-|Leicester      |Burnley       |0  |0  |0.027    |0.068 |0.933    |1.96  |3374 |
-|Man City       |Bournemouth   |1  |0  |0.03     |0.099 |1.158    |1.344 |3374 |
-|West Brom      |West Ham      |2  |0  |0.032    |0.062 |1.252    |1.983 |3369 |
-|Everton        |Middlesbrough |0  |0  |0.02     |0.077 |1.043    |2.046 |3370 |
-|Watford        |Man Utd       |0  |0  |0.017    |0.068 |1.023    |1.982 |3345 |
-|Crystal Palace |Stoke         |0  |1  |0.05     |0.075 |0.871    |1.612 |3334 |
-|Southampton    |Swansea       |1  |0  |0.116    |0.152 |0.855    |1.017 |3338 |
-|Tottenham      |Sunderland    |2  |0  |0.289    |0.125 |0.975    |0.881 |3337 |
-|Total          |              |-  |-  |-        |-     |9.101    |5.1   |3380 |
+|Hull           |Arsenal       |0  |0  |0.017    |0.063 |0.943    |1.926 |3750 |
+|Leicester      |Burnley       |2  |0  |0.355    |0.137 |0.947    |0.933 |3749 |
+|Man City       |Bournemouth   |1  |0  |0.03     |0.094 |1.156    |1.301 |3750 |
+|West Brom      |West Ham      |2  |0  |0.035    |0.062 |1.235    |1.981 |3747 |
+|Everton        |Middlesbrough |0  |0  |0.021    |0.074 |1.03     |2.027 |3744 |
+|Watford        |Man Utd       |0  |0  |0.018    |0.067 |1.01     |1.973 |3677 |
+|Crystal Palace |Stoke         |0  |1  |0.05     |0.075 |0.871    |1.612 |3664 |
+|Southampton    |Swansea       |1  |0  |0.114    |0.152 |0.855    |1.017 |3669 |
+|Tottenham      |Sunderland    |2  |0  |0.287    |0.134 |0.989    |0.903 |3668 |
+|Total          |              |-  |-  |-        |-     |9.036    |4.76  |3750 |
 
 </sub>
 
