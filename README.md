@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 05
 
-2016-09-14 22:59:00
+2016-09-16 21:35:36
 <sub>
 
 
 |Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Liverpool     |1  |0  |0.039    |0.088 |0.777    |1.393 |1789 |
-|Hull           |Arsenal       |0  |0  |0.017    |0.075 |1.042    |2.034 |1764 |
-|Leicester      |Burnley       |0  |0  |0.028    |0.069 |0.981    |1.979 |1764 |
-|Man City       |Bournemouth   |1  |0  |0.03     |0.101 |1.164    |1.356 |1764 |
-|West Brom      |West Ham      |0  |2  |0.049    |0.064 |0.609    |1.234 |1763 |
-|Everton        |Middlesbrough |0  |0  |0.022    |0.077 |1.045    |2.048 |1763 |
-|Watford        |Man Utd       |0  |0  |0.019    |0.074 |1.031    |2.028 |1757 |
-|Crystal Palace |Stoke         |0  |1  |0.046    |0.086 |1.064    |2.11  |1754 |
-|Southampton    |Swansea       |1  |0  |0.132    |0.147 |0.828    |1.013 |1758 |
-|Tottenham      |Sunderland    |2  |0  |0.282    |0.137 |1.02     |0.895 |1756 |
-|Total          |              |-  |-  |-        |-     |9.561    |5.29  |1789 |
+|Chelsea        |Liverpool     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Hull           |Arsenal       |0  |0  |0.017    |0.068 |0.991    |1.972 |3380 |
+|Leicester      |Burnley       |0  |0  |0.027    |0.068 |0.933    |1.96  |3374 |
+|Man City       |Bournemouth   |1  |0  |0.03     |0.099 |1.158    |1.344 |3374 |
+|West Brom      |West Ham      |2  |0  |0.032    |0.062 |1.252    |1.983 |3369 |
+|Everton        |Middlesbrough |0  |0  |0.02     |0.077 |1.043    |2.046 |3370 |
+|Watford        |Man Utd       |0  |0  |0.017    |0.068 |1.023    |1.982 |3345 |
+|Crystal Palace |Stoke         |0  |1  |0.05     |0.075 |0.871    |1.612 |3334 |
+|Southampton    |Swansea       |1  |0  |0.116    |0.152 |0.855    |1.017 |3338 |
+|Tottenham      |Sunderland    |2  |0  |0.289    |0.125 |0.975    |0.881 |3337 |
+|Total          |              |-  |-  |-        |-     |9.101    |5.1   |3380 |
 
 </sub>
 
