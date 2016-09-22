@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 05
+Week = 06
 
-2016-09-17 09:39:38
+2016-09-21 21:46:39
 <sub>
 
 
-|Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Liverpool     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Hull           |Arsenal       |0  |0  |0.017    |0.063 |0.943    |1.926 |3750 |
-|Leicester      |Burnley       |2  |0  |0.355    |0.137 |0.947    |0.933 |3749 |
-|Man City       |Bournemouth   |1  |0  |0.03     |0.094 |1.156    |1.301 |3750 |
-|West Brom      |West Ham      |2  |0  |0.035    |0.062 |1.235    |1.981 |3747 |
-|Everton        |Middlesbrough |0  |0  |0.021    |0.074 |1.03     |2.027 |3744 |
-|Watford        |Man Utd       |0  |0  |0.018    |0.067 |1.01     |1.973 |3677 |
-|Crystal Palace |Stoke         |0  |1  |0.05     |0.075 |0.871    |1.612 |3664 |
-|Southampton    |Swansea       |1  |0  |0.114    |0.152 |0.855    |1.017 |3669 |
-|Tottenham      |Sunderland    |2  |0  |0.287    |0.134 |0.989    |0.903 |3668 |
-|Total          |              |-  |-  |-        |-     |9.036    |4.76  |3750 |
+|Home          |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-------------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man Utd       |Leicester      |3  |0  |0.021    |0.064 |0.83     |1.196 |1834 |
+|Bournemouth   |Everton        |1  |0  |0.047    |0.075 |1.131    |2.056 |1824 |
+|Liverpool     |Hull           |1  |0  |0.048    |0.107 |1.234    |1.361 |1826 |
+|Middlesbrough |Tottenham      |1  |0  |0.045    |0.082 |1.08     |2.091 |1826 |
+|Stoke         |West Brom      |1  |0  |0.134    |0.116 |0.621    |0.965 |1828 |
+|Sunderland    |Crystal Palace |0  |1  |0.094    |0.11  |0.608    |0.948 |1827 |
+|Swansea       |Man City       |0  |1  |0.031    |0.099 |1.094    |1.373 |1825 |
+|Arsenal       |Chelsea        |1  |0  |0.037    |0.084 |0.716    |1.375 |1829 |
+|West Ham      |Southampton    |0  |2  |0.027    |0.064 |0.611    |1.23  |1822 |
+|Burnley       |Watford        |0  |1  |0.079    |0.117 |0.614    |0.968 |1822 |
+|Total         |               |-  |-  |-        |-     |8.539    |4.47  |1834 |
 
 </sub>
 
