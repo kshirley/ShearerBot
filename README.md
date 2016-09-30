@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 06
+Week = 07
 
-2016-09-24 09:44:02
+2016-09-29 21:34:18
 <sub>
 
 
-|Home          |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-------------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man Utd       |Leicester      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Bournemouth   |Everton        |2  |1  |0.048    |0.074 |1.15     |2.052 |3734 |
-|Liverpool     |Hull           |1  |0  |0.047    |0.099 |1.191    |1.328 |3735 |
-|Middlesbrough |Tottenham      |0  |0  |0.025    |0.092 |1.217    |2.179 |3736 |
-|Stoke         |West Brom      |1  |0  |0.116    |0.125 |0.657    |0.989 |3735 |
-|Sunderland    |Crystal Palace |1  |1  |0.235    |0.152 |0.624    |1.071 |3735 |
-|Swansea       |Man City       |0  |1  |0.035    |0.089 |1.08     |1.302 |3731 |
-|Arsenal       |Chelsea        |1  |0  |0.033    |0.075 |0.701    |1.307 |3729 |
-|West Ham      |Southampton    |0  |2  |0.036    |0.062 |0.644    |1.214 |3680 |
-|Burnley       |Watford        |0  |1  |0.086    |0.108 |0.609    |0.941 |3677 |
-|Total         |               |-  |-  |-        |-     |7.873    |4.31  |3736 |
+|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Everton    |Crystal Palace |0  |0  |0.022    |0.064 |1.023    |1.955 |2126 |
+|Swansea    |Liverpool      |0  |1  |0.035    |0.097 |1.044    |1.378 |2059 |
+|Hull       |Chelsea        |0  |2  |0.237    |0.119 |0.901    |0.897 |2056 |
+|Sunderland |West Brom      |1  |0  |0.128    |0.125 |0.625    |0.991 |2056 |
+|Watford    |Bournemouth    |0  |2  |0.017    |0.049 |1.072    |1.852 |2053 |
+|West Ham   |Middlesbrough  |0  |1  |0.051    |0.074 |0.904    |1.624 |2053 |
+|Man Utd    |Stoke          |1  |0  |0.049    |0.119 |1.218    |1.453 |2051 |
+|Leicester  |Southampton    |0  |1  |0.032    |0.084 |1.153    |2.119 |2052 |
+|Tottenham  |Man City       |1  |0  |0.041    |0.068 |1.13     |2.001 |2053 |
+|Burnley    |Arsenal        |0  |2  |0.247    |0.137 |0.982    |0.915 |2053 |
+|Total      |               |-  |-  |-        |-     |10.052   |5     |2126 |
 
 </sub>
 

@@ -11,7 +11,7 @@ path <- "~/Stats/"
 setwd(paste0(path, "ShearerBot"))
 
 # set the week and some local directories to store output:
-week <- "06"
+week <- "07"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
 betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 
@@ -150,6 +150,8 @@ cat("\n\n", writeup, "\n", sep = "\n", file = "README.md", append = TRUE)
 
 # git commit -a -m "updated predictions"
 # git push origin master
+
+
 
 
 
