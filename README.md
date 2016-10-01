@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 07
 
-2016-09-29 21:34:18
+2016-09-30 23:50:03
 <sub>
 
 
 |Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Everton    |Crystal Palace |0  |0  |0.022    |0.064 |1.023    |1.955 |2126 |
-|Swansea    |Liverpool      |0  |1  |0.035    |0.097 |1.044    |1.378 |2059 |
-|Hull       |Chelsea        |0  |2  |0.237    |0.119 |0.901    |0.897 |2056 |
-|Sunderland |West Brom      |1  |0  |0.128    |0.125 |0.625    |0.991 |2056 |
-|Watford    |Bournemouth    |0  |2  |0.017    |0.049 |1.072    |1.852 |2053 |
-|West Ham   |Middlesbrough  |0  |1  |0.051    |0.074 |0.904    |1.624 |2053 |
-|Man Utd    |Stoke          |1  |0  |0.049    |0.119 |1.218    |1.453 |2051 |
-|Leicester  |Southampton    |0  |1  |0.032    |0.084 |1.153    |2.119 |2052 |
-|Tottenham  |Man City       |1  |0  |0.041    |0.068 |1.13     |2.001 |2053 |
-|Burnley    |Arsenal        |0  |2  |0.247    |0.137 |0.982    |0.915 |2053 |
-|Total      |               |-  |-  |-        |-     |10.052   |5     |2126 |
+|Everton    |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Swansea    |Liverpool      |0  |1  |0.037    |0.097 |1.036    |1.381 |3277 |
+|Hull       |Chelsea        |0  |2  |0.242    |0.117 |0.893    |0.894 |3261 |
+|Sunderland |West Brom      |1  |0  |0.121    |0.124 |0.635    |0.986 |3259 |
+|Watford    |Bournemouth    |0  |2  |0.018    |0.047 |1.062    |1.836 |3257 |
+|West Ham   |Middlesbrough  |0  |1  |0.052    |0.075 |0.902    |1.627 |3255 |
+|Man Utd    |Stoke          |2  |0  |0.283    |0.139 |1.008    |0.91  |3235 |
+|Leicester  |Southampton    |0  |1  |0.036    |0.082 |1.111    |2.099 |3231 |
+|Tottenham  |Man City       |1  |0  |0.041    |0.068 |1.215    |2.017 |3233 |
+|Burnley    |Arsenal        |0  |2  |0.248    |0.126 |0.959    |0.891 |3231 |
+|Total      |               |-  |-  |-        |-     |8.821    |4.45  |3277 |
 
 </sub>
 
