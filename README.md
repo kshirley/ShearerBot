@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 07
+Week = 08
 
-2016-09-30 23:50:03
+2016-10-13 23:37:08
 <sub>
 
 
-|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Everton    |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea    |Liverpool      |0  |1  |0.037    |0.097 |1.036    |1.381 |3277 |
-|Hull       |Chelsea        |0  |2  |0.242    |0.117 |0.893    |0.894 |3261 |
-|Sunderland |West Brom      |1  |0  |0.121    |0.124 |0.635    |0.986 |3259 |
-|Watford    |Bournemouth    |0  |2  |0.018    |0.047 |1.062    |1.836 |3257 |
-|West Ham   |Middlesbrough  |0  |1  |0.052    |0.075 |0.902    |1.627 |3255 |
-|Man Utd    |Stoke          |2  |0  |0.283    |0.139 |1.008    |0.91  |3235 |
-|Leicester  |Southampton    |0  |1  |0.036    |0.082 |1.111    |2.099 |3231 |
-|Tottenham  |Man City       |1  |0  |0.041    |0.068 |1.215    |2.017 |3233 |
-|Burnley    |Arsenal        |0  |2  |0.248    |0.126 |0.959    |0.891 |3231 |
-|Total      |               |-  |-  |-        |-     |8.821    |4.45  |3277 |
+|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Leicester  |1  |1  |0.111    |0.11  |0.932    |1.74  |2206 |
+|Arsenal        |Swansea    |4  |0  |0.038    |0.064 |1.014    |1.129 |2202 |
+|Bournemouth    |Hull       |0  |1  |0.05     |0.076 |0.824    |1.598 |2200 |
+|Man City       |Everton    |1  |0  |0.046    |0.089 |1        |1.335 |2202 |
+|Stoke          |Sunderland |0  |2  |0.022    |0.039 |0.886    |1.719 |2201 |
+|West Brom      |Tottenham  |0  |0  |0.028    |0.075 |1.024    |2.032 |2196 |
+|Crystal Palace |West Ham   |0  |1  |0.047    |0.07  |1.064    |2.003 |2197 |
+|Middlesbrough  |Watford    |1  |0  |0.126    |0.13  |0.67     |1     |2190 |
+|Southampton    |Burnley    |2  |0  |0.324    |0.154 |1.001    |0.96  |2191 |
+|Liverpool      |Man Utd    |0  |1  |0.038    |0.068 |1.106    |1.998 |2193 |
+|Total          |           |-  |-  |-        |-     |9.521    |5.06  |2206 |
 
 </sub>
 
