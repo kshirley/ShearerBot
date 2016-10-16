@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 08
 
-2016-10-14 22:53:18
+2016-10-16 10:36:19
 <sub>
 
 
 |Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Leicester  |1  |1  |0.112    |0.109 |0.922    |1.733 |2985 |
-|Arsenal        |Swansea    |2  |0  |0.31     |0.125 |1.007    |0.862 |2983 |
-|Bournemouth    |Hull       |1  |0  |0.186    |0.126 |0.778    |0.963 |2983 |
-|Man City       |Everton    |1  |0  |0.047    |0.095 |1.033    |1.366 |2984 |
-|Stoke          |Sunderland |0  |1  |0.052    |0.074 |0.837    |1.597 |2984 |
-|West Brom      |Tottenham  |0  |0  |0.029    |0.088 |1.159    |2.144 |2980 |
-|Crystal Palace |West Ham   |0  |2  |0.022    |0.038 |0.96     |1.742 |2981 |
-|Middlesbrough  |Watford    |1  |0  |0.115    |0.137 |0.683    |1.02  |2966 |
-|Southampton    |Burnley    |2  |0  |0.338    |0.149 |0.999    |0.945 |2966 |
-|Liverpool      |Man Utd    |0  |1  |0.047    |0.067 |1.121    |1.998 |2966 |
-|Total          |           |-  |-  |-        |-     |9.499    |4.76  |2985 |
+|Chelsea        |Leicester  |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Arsenal        |Swansea    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Bournemouth    |Hull       |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Man City       |Everton    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Stoke          |Sunderland |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|West Brom      |Tottenham  |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Crystal Palace |West Ham   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Middlesbrough  |Watford    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Southampton    |Burnley    |2  |0  |0.347    |0.155 |1.018    |0.954 |3709 |
+|Liverpool      |Man Utd    |1  |0  |0.033    |0.093 |0.816    |1.417 |3675 |
+|Total          |           |-  |-  |-        |-     |1.834    |1.71  |3709 |
 
 </sub>
 
