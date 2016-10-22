@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 08
+Week = 09
 
-2016-10-16 10:36:19
+2016-10-21 23:49:10
 <sub>
 
 
-|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Leicester  |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Arsenal        |Swansea    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Bournemouth    |Hull       |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man City       |Everton    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke          |Sunderland |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Tottenham  |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |West Ham   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Middlesbrough  |Watford    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Southampton    |Burnley    |2  |0  |0.347    |0.155 |1.018    |0.954 |3709 |
-|Liverpool      |Man Utd    |1  |0  |0.033    |0.093 |0.816    |1.417 |3675 |
-|Total          |           |-  |-  |-        |-     |1.834    |1.71  |3709 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Bournemouth |Tottenham      |1  |1  |0.124    |0.126 |1.063    |1.821 |2764 |
+|Arsenal     |Middlesbrough  |1  |0  |0.047    |0.114 |1.232    |1.412 |2766 |
+|Burnley     |Everton        |0  |1  |0.136    |0.152 |0.876    |1.01  |2762 |
+|Hull        |Stoke          |2  |0  |0.045    |0.053 |1.173    |1.906 |2759 |
+|Leicester   |Crystal Palace |0  |1  |0.047    |0.069 |0.975    |1.975 |2760 |
+|Swansea     |Watford        |1  |0  |0.11     |0.104 |0.619    |0.928 |2758 |
+|West Ham    |Sunderland     |0  |0  |0.044    |0.062 |0.988    |1.929 |2759 |
+|Liverpool   |West Brom      |2  |0  |0.271    |0.139 |1.031    |0.897 |2760 |
+|Man City    |Southampton    |1  |0  |0.047    |0.108 |1.094    |1.435 |2742 |
+|Chelsea     |Man Utd        |1  |0  |0.059    |0.115 |0.646    |0.959 |2743 |
+|Total       |               |-  |-  |-        |-     |9.697    |4.71  |2766 |
 
 </sub>
 

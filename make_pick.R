@@ -22,6 +22,7 @@ make.pick <- function(ptp.table, betfair) {
           b.prob[j] <- 0
         }
       }
+      b.prob[is.na(b.prob)] <- 0
       b.prob <- b.prob/sum(b.prob)
       type <- ifelse(z$summary[, 1] > z$summary[, 2], 1, 
                      ifelse(z$summary[, 1] == z$summary[, 2], 2, 3))
