@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 09
+Week = 10
 
-2016-10-22 23:34:26
+2016-10-28 21:02:09
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Bournemouth |Tottenham      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Arsenal     |Middlesbrough  |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Burnley     |Everton        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Hull        |Stoke          |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Leicester   |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Swansea     |Watford        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Ham    |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Liverpool   |West Brom      |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man City    |Southampton    |2  |0  |0.212    |0.115 |0.899    |0.883 |3556 |
-|Chelsea     |Man Utd        |1  |0  |0.06     |0.121 |0.672    |0.974 |3555 |
-|Total       |               |-  |-  |-        |-     |1.571    |1.31  |3556 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Sunderland     |Arsenal     |0  |2  |0.296    |0.118 |0.92     |0.883 |2692 |
+|Man Utd        |Burnley     |2  |0  |0.341    |0.165 |1.134    |0.916 |2688 |
+|Middlesbrough  |Bournemouth |2  |0  |0.044    |0.067 |0.637    |1.253 |2685 |
+|Tottenham      |Leicester   |3  |0  |0.028    |0.068 |0.876    |1.214 |2686 |
+|Watford        |Hull        |1  |0  |0.177    |0.134 |0.824    |0.975 |2686 |
+|West Brom      |Man City    |0  |2  |0.177    |0.122 |0.909    |0.901 |2686 |
+|Crystal Palace |Liverpool   |0  |0  |0.02     |0.063 |0.999    |1.938 |2685 |
+|Everton        |West Ham    |0  |1  |0.043    |0.057 |0.908    |1.869 |2671 |
+|Southampton    |Chelsea     |2  |0  |0.019    |0.055 |1.094    |1.901 |2670 |
+|Stoke          |Swansea     |0  |1  |0.049    |0.069 |1.03     |1.99  |2671 |
+|Total          |            |-  |-  |-        |-     |9.331    |4.61  |2692 |
 
 </sub>
 
