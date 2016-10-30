@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 10
 
-2016-10-28 21:02:09
+2016-10-29 22:53:49
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Sunderland     |Arsenal     |0  |2  |0.296    |0.118 |0.92     |0.883 |2692 |
-|Man Utd        |Burnley     |2  |0  |0.341    |0.165 |1.134    |0.916 |2688 |
-|Middlesbrough  |Bournemouth |2  |0  |0.044    |0.067 |0.637    |1.253 |2685 |
-|Tottenham      |Leicester   |3  |0  |0.028    |0.068 |0.876    |1.214 |2686 |
-|Watford        |Hull        |1  |0  |0.177    |0.134 |0.824    |0.975 |2686 |
-|West Brom      |Man City    |0  |2  |0.177    |0.122 |0.909    |0.901 |2686 |
-|Crystal Palace |Liverpool   |0  |0  |0.02     |0.063 |0.999    |1.938 |2685 |
-|Everton        |West Ham    |0  |1  |0.043    |0.057 |0.908    |1.869 |2671 |
-|Southampton    |Chelsea     |2  |0  |0.019    |0.055 |1.094    |1.901 |2670 |
-|Stoke          |Swansea     |0  |1  |0.049    |0.069 |1.03     |1.99  |2671 |
-|Total          |            |-  |-  |-        |-     |9.331    |4.61  |2692 |
+|Sunderland     |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Man Utd        |Burnley     |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Middlesbrough  |Bournemouth |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Tottenham      |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Watford        |Hull        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|West Brom      |Man City    |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Crystal Palace |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Everton        |West Ham    |0  |1  |0.046    |0.055 |0.909    |1.853 |3525 |
+|Southampton    |Chelsea     |1  |0  |0.05     |0.094 |1.06     |1.732 |3523 |
+|Stoke          |Swansea     |0  |2  |0.017    |0.038 |0.906    |1.72  |3511 |
+|Total          |            |-  |-  |-        |-     |2.875    |3.06  |3525 |
 
 </sub>
 
