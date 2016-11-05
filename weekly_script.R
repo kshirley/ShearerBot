@@ -11,7 +11,7 @@ path <- "~/Stats/"
 setwd(paste0(path, "ShearerBot"))
 
 # set the week and some local directories to store output:
-week <- "10"
+week <- "11"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
 betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 
@@ -34,6 +34,7 @@ source("get_schedule.R")
 source("get_table.R")
 source("download_betfair.R")
 source("make_pick.R")
+source("get_max.R")
 
 # set the vector of game ID numbers from predictthepremiership.com:
 id.vec <- get.schedule()
@@ -73,37 +74,6 @@ points.table <- make.pick(ptp.table = ptp.table, betfair = betfair)
 summary.file <- paste0("summary-", week, "-", 
                        gsub(" ", "-", as.character(Sys.time())), ".RData")
 save(points.table, file = file.path(summary.file.path, summary.file))
-
-# function to extract the score yielding the highest expected points 
-# for each game:
-get.max <- function(x) {
-  if (!is.null(x$summary)) {
-    if (sum(is.na(x$summary$Expected)) != length(x$summary$Expected)) {
-      tmp <- x$summary[which.max(x$summary[, "Expected"]), ]  
-      df <- data.frame(Home = gsub(".", " ", names(tmp)[1], fixed = TRUE), 
-                       Away = gsub(".", " ", names(tmp)[2], fixed = TRUE), 
-                       tmp, 
-                       n = x$n, stringsAsFactors = FALSE)
-      names(df)[3:4] <- c("H", "A")
-      for (i in 6:8) df[, i] <- round(df[, i], 3)
-      names(df)[5] <- "% Picked"
-      names(df)[6] <- "Prob"
-    } else {
-      df <- data.frame(Home = x$teams[1], Away = x$teams[2], 
-                       H = NA, A = NA, picked = NA, 
-                       Prob = NA, Expected = NA, SD = NA, n = NA, 
-                       stringsAsFactors = FALSE)
-      names(df)[5] <- "% Picked"
-    } 
-  } else {
-  	df <- data.frame(Home = x$teams[1], Away = x$teams[2], 
-  	                H = NA, A = NA, picked = NA, 
-  	                Prob = NA, Expected = NA, SD = NA, n = NA, 
-  	                stringsAsFactors = FALSE)
-    names(df)[5] <- "% Picked"
-  }
-  df
-}
 
 # gather the best pick for each game:
 output.table <- do.call(rbind, lapply(points.table, get.max))

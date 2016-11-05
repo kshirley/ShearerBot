@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 10
+Week = 11
 
-2016-10-29 22:53:49
+2016-11-04 21:50:49
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Sunderland     |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man Utd        |Burnley     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Middlesbrough  |Bournemouth |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Tottenham      |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Watford        |Hull        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Man City    |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |Liverpool   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Everton        |West Ham    |0  |1  |0.046    |0.055 |0.909    |1.853 |3525 |
-|Southampton    |Chelsea     |1  |0  |0.05     |0.094 |1.06     |1.732 |3523 |
-|Stoke          |Swansea     |0  |2  |0.017    |0.038 |0.906    |1.72  |3511 |
-|Total          |            |-  |-  |-        |-     |2.875    |3.06  |3525 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Bournemouth |Sunderland     |0  |0  |0.042    |0.066 |1.043    |1.971 |2608 |
+|Burnley     |Crystal Palace |0  |2  |0.043    |0.077 |0.713    |1.318 |2604 |
+|Man City    |Middlesbrough  |1  |0  |0.046    |0.108 |1.232    |1.366 |2607 |
+|West Ham    |Stoke          |3  |1  |0.028    |0.057 |0.69     |1.166 |2607 |
+|Chelsea     |Everton        |0  |0  |0.022    |0.054 |0.921    |1.849 |2607 |
+|Arsenal     |Tottenham      |0  |1  |0.033    |0.053 |0.93     |1.845 |2584 |
+|Hull        |Southampton    |0  |1  |0.149    |0.148 |0.861    |1.004 |2582 |
+|Liverpool   |Watford        |1  |0  |0.043    |0.107 |1.192    |1.383 |2585 |
+|Swansea     |Man Utd        |0  |3  |0.035    |0.053 |0.766    |1.112 |2585 |
+|Leicester   |West Brom      |0  |0  |0.045    |0.094 |1.188    |2.189 |2582 |
+|Total       |               |-  |-  |-        |-     |9.536    |4.96  |2608 |
 
 </sub>
 
