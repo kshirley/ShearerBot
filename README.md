@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 11
+Week = 12
 
-2016-11-05 13:18:09
+2016-11-18 21:39:24
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Bournemouth |Sunderland     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Burnley     |Crystal Palace |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Man City    |Middlesbrough  |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Ham    |Stoke          |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Chelsea     |Everton        |3  |0  |0.041    |0.075 |0.941    |1.246 |3469 |
-|Arsenal     |Tottenham      |0  |1  |0.033    |0.052 |0.924    |1.835 |3392 |
-|Hull        |Southampton    |0  |0  |0.044    |0.091 |1.15     |2.164 |3390 |
-|Liverpool   |Watford        |1  |0  |0.044    |0.105 |1.186    |1.371 |3392 |
-|Swansea     |Man Utd        |1  |2  |0.27     |0.106 |0.783    |0.898 |3392 |
-|Leicester   |West Brom      |0  |0  |0.047    |0.094 |1.179    |2.183 |3392 |
-|Total       |               |-  |-  |-        |-     |6.163    |4.13  |3469 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man Utd        |Arsenal     |0  |1  |0.033    |0.089 |0.68     |1.41  |2663 |
+|Crystal Palace |Man City    |0  |1  |0.042    |0.097 |1.027    |1.381 |2657 |
+|Everton        |Swansea     |1  |1  |0.088    |0.11  |0.934    |1.742 |2657 |
+|Southampton    |Liverpool   |1  |0  |0.037    |0.074 |1.1      |2.043 |2658 |
+|Stoke          |Bournemouth |0  |1  |0.046    |0.077 |1.138    |2.067 |2658 |
+|Sunderland     |Hull        |0  |1  |0.057    |0.088 |0.965    |1.685 |2657 |
+|Watford        |Leicester   |0  |0  |0.049    |0.088 |0.642    |1.412 |2655 |
+|Tottenham      |West Ham    |2  |0  |0.237    |0.117 |0.879    |0.898 |2656 |
+|Middlesbrough  |Chelsea     |0  |0  |0.027    |0.073 |0.977    |2.005 |2646 |
+|West Brom      |Burnley     |0  |1  |0.05     |0.082 |0.83     |1.62  |2644 |
+|Total          |            |-  |-  |-        |-     |9.172    |5.26  |2663 |
 
 </sub>
 
