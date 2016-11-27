@@ -11,7 +11,7 @@ path <- "~/Stats/"
 setwd(paste0(path, "ShearerBot"))
 
 # set the week and some local directories to store output:
-week <- "12"
+week <- "13"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
 betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 
@@ -40,6 +40,7 @@ source("get_max.R")
 id.vec <- get.schedule()
 #id.vec <- (as.numeric(week) - 1)*10 + 1:10
 #id.vec <- c(350, 347, 299, 295)
+#id.vec <- id.vec[7:10]
 n.games <- length(id.vec)
 
 # download the table of aggregated predictions:
