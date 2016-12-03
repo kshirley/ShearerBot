@@ -5,19 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 13
+Week = 14
 
-2016-11-26 21:01:51
+2016-12-02 22:39:40
 <sub>
 
 
-|Home        |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Watford     |Stoke       |1  |0  |0.118    |0.108 |0.624    |0.938 |3345 |
-|Arsenal     |Bournemouth |1  |1  |0.048    |0.094 |1.006    |2.151 |3340 |
-|Man Utd     |West Ham    |2  |0  |0.224    |0.126 |0.922    |0.91  |3342 |
-|Southampton |Everton     |1  |0  |0.077    |0.124 |0.691    |0.978 |3341 |
-|Total       |            |-  |-  |-        |-     |3.243    |2.7   |3345 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man City       |Chelsea     |1  |0  |0.043    |0.098 |0.812    |1.456 |2536 |
+|Crystal Palace |Southampton |0  |1  |0.095    |0.11  |0.644    |0.944 |2527 |
+|Stoke          |Burnley     |0  |0  |0.041    |0.069 |1.003    |1.981 |2526 |
+|Sunderland     |Leicester   |0  |1  |0.082    |0.102 |0.649    |0.917 |2524 |
+|Tottenham      |Swansea     |2  |0  |0.323    |0.116 |0.955    |0.86  |2526 |
+|West Brom      |Watford     |0  |1  |0.05     |0.092 |0.985    |1.704 |2526 |
+|West Ham       |Arsenal     |1  |1  |0.104    |0.114 |0.97     |1.764 |2523 |
+|Bournemouth    |Liverpool   |2  |2  |0.047    |0.067 |1.031    |1.977 |2510 |
+|Everton        |Man Utd     |1  |0  |0.049    |0.075 |1.064    |2.036 |2511 |
+|Middlesbrough  |Hull        |1  |0  |0.179    |0.167 |0.87     |1.055 |2508 |
+|Total          |            |-  |-  |-        |-     |8.983    |4.87  |2536 |
 
 </sub>
 
