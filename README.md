@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 14
+Week = 15
 
-2016-12-03 22:43:32
+2016-12-10 00:16:35
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man City       |Chelsea     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Crystal Palace |Southampton |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Stoke          |Burnley     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Sunderland     |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Tottenham      |Swansea     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Brom      |Watford     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|West Ham       |Arsenal     |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Bournemouth    |Liverpool   |2  |2  |0.048    |0.061 |0.985    |1.922 |3322 |
-|Everton        |Man Utd     |0  |1  |0.055    |0.114 |0.694    |0.948 |3324 |
-|Middlesbrough  |Hull        |1  |0  |0.18     |0.166 |0.871    |1.053 |3315 |
-|Total          |            |-  |-  |-        |-     |2.55     |2.39  |3324 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Watford     |Everton        |0  |0  |0.031    |0.089 |0.65     |1.415 |2501 |
+|Arsenal     |Stoke          |2  |0  |0.284    |0.126 |1        |0.87  |2493 |
+|Burnley     |Bournemouth    |0  |1  |0.056    |0.104 |0.611    |0.929 |2491 |
+|Hull        |Crystal Palace |2  |0  |0.038    |0.054 |1.115    |1.9   |2489 |
+|Swansea     |Sunderland     |3  |1  |0.033    |0.053 |0.689    |1.13  |2488 |
+|Leicester   |Man City       |0  |1  |0.045    |0.092 |0.934    |1.376 |2488 |
+|Chelsea     |West Brom      |1  |0  |0.049    |0.116 |1.225    |1.433 |2469 |
+|Man Utd     |Tottenham      |2  |0  |0.048    |0.081 |0.769    |1.339 |2470 |
+|Southampton |Middlesbrough  |1  |0  |0.167    |0.164 |0.91     |1.034 |2468 |
+|Liverpool   |West Ham       |1  |0  |0.043    |0.089 |1.122    |1.28  |2470 |
+|Total       |               |-  |-  |-        |-     |9.025    |4.12  |2501 |
 
 </sub>
 
