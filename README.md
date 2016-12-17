@@ -5,23 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 16
+Week = 17
 
-2016-12-13 20:43:33
+2016-12-17 00:48:00
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Middlesbrough  |Liverpool   |0  |0  |0.023    |0.068 |0.969    |1.97  |2816 |
-|Sunderland     |Chelsea     |0  |2  |0.303    |0.123 |0.952    |0.886 |2813 |
-|West Ham       |Burnley     |3  |0  |0.042    |0.064 |0.831    |1.189 |2814 |
-|Crystal Palace |Man Utd     |1  |0  |0.046    |0.052 |0.811    |1.801 |2812 |
-|Man City       |Watford     |1  |0  |0.046    |0.094 |1.148    |1.308 |2812 |
-|Stoke          |Southampton |0  |2  |0.038    |0.068 |1.425    |2.036 |2808 |
-|Tottenham      |Hull        |2  |0  |0.305    |0.136 |1.063    |0.864 |2814 |
-|West Brom      |Swansea     |0  |1  |0.048    |0.068 |1.01     |1.977 |2810 |
-|Total          |            |-  |-  |-        |-     |8.209    |4.45  |2816 |
+|Crystal Palace |Chelsea     |1  |1  |0.095    |0.107 |0.885    |1.716 |2368 |
+|Middlesbrough  |Swansea     |0  |1  |0.05     |0.087 |0.931    |1.671 |2362 |
+|Stoke          |Leicester   |0  |1  |0.049    |0.104 |0.752    |1.507 |2361 |
+|Sunderland     |Watford     |0  |0  |0.049    |0.094 |0.686    |1.449 |2361 |
+|West Ham       |Hull        |1  |1  |0.065    |0.128 |1.073    |1.829 |2361 |
+|West Brom      |Man Utd     |0  |1  |0.082    |0.149 |0.863    |1.005 |2360 |
+|Bournemouth    |Southampton |0  |2  |0.037    |0.069 |0.647    |1.269 |2337 |
+|Man City       |Arsenal     |1  |0  |0.042    |0.084 |0.783    |1.36  |2335 |
+|Tottenham      |Burnley     |2  |0  |0.312    |0.143 |1.074    |0.883 |2335 |
+|Everton        |Liverpool   |0  |1  |0.034    |0.095 |0.887    |1.415 |2340 |
+|Total          |            |-  |-  |-        |-     |8.581    |4.55  |2368 |
 
 </sub>
 
