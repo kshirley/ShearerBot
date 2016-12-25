@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 17
+Week = 18
 
-2016-12-17 00:48:00
+2016-12-25 09:52:07
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Crystal Palace |Chelsea     |1  |1  |0.095    |0.107 |0.885    |1.716 |2368 |
-|Middlesbrough  |Swansea     |0  |1  |0.05     |0.087 |0.931    |1.671 |2362 |
-|Stoke          |Leicester   |0  |1  |0.049    |0.104 |0.752    |1.507 |2361 |
-|Sunderland     |Watford     |0  |0  |0.049    |0.094 |0.686    |1.449 |2361 |
-|West Ham       |Hull        |1  |1  |0.065    |0.128 |1.073    |1.829 |2361 |
-|West Brom      |Man Utd     |0  |1  |0.082    |0.149 |0.863    |1.005 |2360 |
-|Bournemouth    |Southampton |0  |2  |0.037    |0.069 |0.647    |1.269 |2337 |
-|Man City       |Arsenal     |1  |0  |0.042    |0.084 |0.783    |1.36  |2335 |
-|Tottenham      |Burnley     |2  |0  |0.312    |0.143 |1.074    |0.883 |2335 |
-|Everton        |Liverpool   |0  |1  |0.034    |0.095 |0.887    |1.415 |2340 |
-|Total          |            |-  |-  |-        |-     |8.581    |4.55  |2368 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Watford     |Crystal Palace |0  |0  |0.042    |0.089 |0.656    |1.418 |2404 |
+|Arsenal     |West Brom      |2  |0  |0.318    |0.137 |1.001    |0.906 |2401 |
+|Burnley     |Middlesbrough  |0  |2  |0.036    |0.067 |1.343    |2.026 |2402 |
+|Chelsea     |Bournemouth    |1  |1  |0.048    |0.091 |0.962    |2.124 |2400 |
+|Leicester   |Everton        |0  |1  |0.046    |0.084 |0.65     |1.384 |2400 |
+|Man Utd     |Sunderland     |4  |0  |0.047    |0.083 |1.134    |1.227 |2400 |
+|Swansea     |West Ham       |1  |1  |0.243    |0.141 |0.579    |1.043 |2400 |
+|Hull        |Man City       |0  |2  |0.228    |0.117 |0.961    |0.859 |2396 |
+|Liverpool   |Stoke          |2  |0  |0.276    |0.126 |1.003    |0.869 |2400 |
+|Southampton |Tottenham      |1  |0  |0.049    |0.102 |1.332    |2.252 |2401 |
+|Total       |               |-  |-  |-        |-     |9.621    |4.75  |2404 |
 
 </sub>
 
