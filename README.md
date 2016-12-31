@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 19
 
-2016-12-30 14:46:48
+2016-12-31 09:48:31
 <sub>
 
 
 |Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Hull        |Everton        |0  |0  |0.028    |0.087 |1.203    |2.145 |2893 |
-|Burnley     |Sunderland     |0  |2  |0.033    |0.055 |1.107    |1.903 |2741 |
-|Chelsea     |Stoke          |2  |0  |0.327    |0.136 |1.038    |0.88  |2744 |
-|Leicester   |West Ham       |3  |1  |0.036    |0.052 |0.666    |1.127 |2744 |
-|Man Utd     |Middlesbrough  |2  |0  |0.368    |0.181 |1.143    |0.96  |2744 |
-|Southampton |West Brom      |1  |0  |0.15     |0.167 |0.89     |1.049 |2740 |
-|Swansea     |Bournemouth    |1  |1  |0.208    |0.138 |0.575    |1.036 |2740 |
-|Liverpool   |Man City       |0  |1  |0.035    |0.062 |1.18     |1.972 |2744 |
-|Watford     |Tottenham      |0  |0  |0.016    |0.076 |1.056    |2.046 |2731 |
-|Arsenal     |Crystal Palace |2  |0  |0.272    |0.117 |0.954    |0.864 |2731 |
-|Total       |               |-  |-  |-        |-     |9.812    |4.71  |2893 |
+|Hull        |Everton        |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Burnley     |Sunderland     |0  |0  |0.039    |0.091 |0.66     |1.428 |3217 |
+|Chelsea     |Stoke          |2  |0  |0.324    |0.137 |1.05     |0.876 |3220 |
+|Leicester   |West Ham       |1  |0  |0.072    |0.099 |0.645    |0.906 |3220 |
+|Man Utd     |Middlesbrough  |2  |0  |0.374    |0.154 |1.081    |0.913 |3219 |
+|Southampton |West Brom      |1  |0  |0.145    |0.159 |0.891    |1.024 |3216 |
+|Swansea     |Bournemouth    |0  |0  |0.046    |0.075 |0.599    |1.32  |3217 |
+|Liverpool   |Man City       |0  |1  |0.035    |0.067 |1.21     |2.008 |3217 |
+|Watford     |Tottenham      |0  |0  |0.016    |0.077 |1.064    |2.051 |3166 |
+|Arsenal     |Crystal Palace |2  |0  |0.269    |0.126 |0.975    |0.883 |3164 |
+|Total       |               |-  |-  |-        |-     |8.175    |4.03  |3220 |
 
 </sub>
 
