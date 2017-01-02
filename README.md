@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 19
+Week = 20
 
-2016-12-31 09:48:31
+2017-01-02 00:32:08
 <sub>
 
 
-|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Hull        |Everton        |NA |NA |NA       |NA    |NA       |NA    |NA   |
-|Burnley     |Sunderland     |0  |0  |0.039    |0.091 |0.66     |1.428 |3217 |
-|Chelsea     |Stoke          |2  |0  |0.324    |0.137 |1.05     |0.876 |3220 |
-|Leicester   |West Ham       |1  |0  |0.072    |0.099 |0.645    |0.906 |3220 |
-|Man Utd     |Middlesbrough  |2  |0  |0.374    |0.154 |1.081    |0.913 |3219 |
-|Southampton |West Brom      |1  |0  |0.145    |0.159 |0.891    |1.024 |3216 |
-|Swansea     |Bournemouth    |0  |0  |0.046    |0.075 |0.599    |1.32  |3217 |
-|Liverpool   |Man City       |0  |1  |0.035    |0.067 |1.21     |2.008 |3217 |
-|Watford     |Tottenham      |0  |0  |0.016    |0.077 |1.064    |2.051 |3166 |
-|Arsenal     |Crystal Palace |2  |0  |0.269    |0.126 |0.975    |0.883 |3164 |
-|Total       |               |-  |-  |-        |-     |8.175    |4.03  |3220 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Middlesbrough  |Leicester   |0  |0  |0.044    |0.116 |0.787    |1.578 |1840 |
+|Everton        |Southampton |0  |1  |0.041    |0.09  |1.153    |2.157 |1835 |
+|Man City       |Burnley     |1  |0  |0.049    |0.094 |1.194    |1.286 |1835 |
+|Sunderland     |Liverpool   |0  |2  |0.188    |0.123 |0.969    |0.878 |1835 |
+|West Brom      |Hull        |1  |0  |0.152    |0.152 |0.84     |1.024 |1833 |
+|West Ham       |Man Utd     |0  |3  |0.024    |0.067 |0.879    |1.206 |1831 |
+|Bournemouth    |Arsenal     |0  |0  |0.02     |0.063 |1.071    |1.96  |1814 |
+|Crystal Palace |Swansea     |0  |0  |0.039    |0.076 |1.105    |2.053 |1814 |
+|Stoke          |Watford     |0  |1  |0.028    |0.07  |0.884    |1.954 |1814 |
+|Tottenham      |Chelsea     |0  |1  |0.042    |0.09  |0.72     |1.412 |1814 |
+|Total          |            |-  |-  |-        |-     |9.602    |5.09  |1840 |
 
 </sub>
 
