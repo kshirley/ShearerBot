@@ -7,23 +7,23 @@ Latest Predictions:
 
 Week = 20
 
-2017-01-02 00:32:08
+2017-01-02 09:58:05
 <sub>
 
 
 |Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
 |:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Middlesbrough  |Leicester   |0  |0  |0.044    |0.116 |0.787    |1.578 |1840 |
-|Everton        |Southampton |0  |1  |0.041    |0.09  |1.153    |2.157 |1835 |
-|Man City       |Burnley     |1  |0  |0.049    |0.094 |1.194    |1.286 |1835 |
-|Sunderland     |Liverpool   |0  |2  |0.188    |0.123 |0.969    |0.878 |1835 |
-|West Brom      |Hull        |1  |0  |0.152    |0.152 |0.84     |1.024 |1833 |
-|West Ham       |Man Utd     |0  |3  |0.024    |0.067 |0.879    |1.206 |1831 |
-|Bournemouth    |Arsenal     |0  |0  |0.02     |0.063 |1.071    |1.96  |1814 |
-|Crystal Palace |Swansea     |0  |0  |0.039    |0.076 |1.105    |2.053 |1814 |
-|Stoke          |Watford     |0  |1  |0.028    |0.07  |0.884    |1.954 |1814 |
-|Tottenham      |Chelsea     |0  |1  |0.042    |0.09  |0.72     |1.412 |1814 |
-|Total          |            |-  |-  |-        |-     |9.602    |5.09  |1840 |
+|Middlesbrough  |Leicester   |NA |NA |NA       |NA    |NA       |NA    |NA   |
+|Everton        |Southampton |0  |1  |0.045    |0.094 |1.261    |2.193 |2852 |
+|Man City       |Burnley     |1  |0  |0.049    |0.106 |1.232    |1.354 |2852 |
+|Sunderland     |Liverpool   |0  |2  |0.202    |0.124 |0.988    |0.868 |2852 |
+|West Brom      |Hull        |0  |0  |0.046    |0.106 |1.298    |2.278 |2850 |
+|West Ham       |Man Utd     |0  |3  |0.025    |0.077 |0.939    |1.267 |2846 |
+|Bournemouth    |Arsenal     |0  |0  |0.018    |0.064 |1.048    |1.957 |2758 |
+|Crystal Palace |Swansea     |0  |0  |0.041    |0.075 |1.103    |2.047 |2758 |
+|Stoke          |Watford     |0  |1  |0.025    |0.07  |0.884    |1.954 |2758 |
+|Tottenham      |Chelsea     |0  |1  |0.041    |0.089 |0.711    |1.406 |2754 |
+|Total          |            |-  |-  |-        |-     |9.464    |5.29  |2852 |
 
 </sub>
 
