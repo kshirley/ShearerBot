@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 21
+Week = 22
 
-2017-01-14 00:44:58
+2017-01-20 22:31:57
 <sub>
 
 
-|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Tottenham  |West Brom      |2  |0  |0.328    |0.149 |1.035    |0.927 |2680 |
-|Burnley    |Southampton    |0  |2  |0.04     |0.085 |0.761    |1.371 |2671 |
-|Hull       |Bournemouth    |1  |2  |0.22     |0.095 |0.621    |0.896 |2671 |
-|Sunderland |Stoke          |0  |1  |0.07     |0.102 |0.596    |0.925 |2669 |
-|Swansea    |Arsenal        |1  |1  |0.049    |0.101 |1.062    |2.211 |2671 |
-|Watford    |Middlesbrough  |0  |1  |0.06     |0.113 |1.128    |1.802 |2671 |
-|West Ham   |Crystal Palace |0  |2  |0.021    |0.046 |1.112    |1.838 |2671 |
-|Leicester  |Chelsea        |1  |0  |0.044    |0.062 |0.826    |1.877 |2671 |
-|Everton    |Man City       |0  |1  |0.043    |0.1   |0.933    |1.435 |2655 |
-|Man Utd    |Liverpool      |1  |0  |0.07     |0.112 |0.668    |0.946 |2655 |
-|Total      |               |-  |-  |-        |-     |8.742    |4.73  |2680 |
+|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Liverpool      |Swansea    |1  |0  |0.049    |0.091 |1.163    |1.277 |2496 |
+|Bournemouth    |Watford    |0  |1  |0.041    |0.066 |0.873    |1.924 |2485 |
+|Crystal Palace |Everton    |2  |0  |0.019    |0.048 |1.065    |1.843 |2487 |
+|Middlesbrough  |West Ham   |2  |0  |0.048    |0.075 |0.683    |1.312 |2486 |
+|Stoke          |Man Utd    |0  |0  |0.021    |0.074 |1.028    |2.024 |2483 |
+|West Brom      |Sunderland |0  |0  |0.042    |0.076 |1.055    |2.045 |2483 |
+|Man City       |Tottenham  |1  |0  |0.037    |0.099 |0.845    |1.45  |2482 |
+|Southampton    |Leicester  |1  |0  |0.13     |0.155 |0.842    |1.03  |2471 |
+|Arsenal        |Burnley    |2  |0  |0.273    |0.135 |1.074    |0.855 |2470 |
+|Chelsea        |Hull       |1  |0  |0.044    |0.106 |1.249    |1.345 |2471 |
+|Total          |           |-  |-  |-        |-     |9.877    |4.94  |2496 |
 
 </sub>
 
