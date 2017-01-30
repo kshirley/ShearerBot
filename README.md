@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 22
+Week = 23
 
-2017-01-20 22:31:57
+2017-01-30 00:14:29
 <sub>
 
 
-|Home           |Away       |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Liverpool      |Swansea    |1  |0  |0.049    |0.091 |1.163    |1.277 |2496 |
-|Bournemouth    |Watford    |0  |1  |0.041    |0.066 |0.873    |1.924 |2485 |
-|Crystal Palace |Everton    |2  |0  |0.019    |0.048 |1.065    |1.843 |2487 |
-|Middlesbrough  |West Ham   |2  |0  |0.048    |0.075 |0.683    |1.312 |2486 |
-|Stoke          |Man Utd    |0  |0  |0.021    |0.074 |1.028    |2.024 |2483 |
-|West Brom      |Sunderland |0  |0  |0.042    |0.076 |1.055    |2.045 |2483 |
-|Man City       |Tottenham  |1  |0  |0.037    |0.099 |0.845    |1.45  |2482 |
-|Southampton    |Leicester  |1  |0  |0.13     |0.155 |0.842    |1.03  |2471 |
-|Arsenal        |Burnley    |2  |0  |0.273    |0.135 |1.074    |0.855 |2470 |
-|Chelsea        |Hull       |1  |0  |0.044    |0.106 |1.249    |1.345 |2471 |
-|Total          |           |-  |-  |-        |-     |9.877    |4.94  |2496 |
+|Home          |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-------------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Arsenal       |Watford        |1  |0  |0.049    |0.11  |1.218    |1.388 |1851 |
+|Bournemouth   |Crystal Palace |0  |2  |0.021    |0.038 |0.893    |1.713 |1847 |
+|Burnley       |Leicester      |0  |0  |0.037    |0.102 |0.71     |1.496 |1846 |
+|Middlesbrough |West Brom      |2  |0  |0.047    |0.074 |0.669    |1.306 |1845 |
+|Sunderland    |Tottenham      |0  |1  |0.047    |0.116 |1.17     |1.455 |1845 |
+|Swansea       |Southampton    |0  |1  |0.06     |0.117 |0.655    |0.963 |1845 |
+|Liverpool     |Chelsea        |1  |0  |0.049    |0.108 |0.811    |1.52  |1845 |
+|West Ham      |Man City       |0  |3  |0.04     |0.069 |0.887    |1.217 |1847 |
+|Man Utd       |Hull           |2  |0  |0.359    |0.15  |1.126    |0.872 |1849 |
+|Stoke         |Everton        |0  |0  |0.041    |0.086 |0.65     |1.394 |1846 |
+|Total         |               |-  |-  |-        |-     |8.789    |4.28  |1851 |
 
 </sub>
 
