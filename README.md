@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 23
+Week = 24
 
-2017-01-30 00:14:29
+2017-02-03 22:36:17
 <sub>
 
 
-|Home          |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-------------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal       |Watford        |1  |0  |0.049    |0.11  |1.218    |1.388 |1851 |
-|Bournemouth   |Crystal Palace |0  |2  |0.021    |0.038 |0.893    |1.713 |1847 |
-|Burnley       |Leicester      |0  |0  |0.037    |0.102 |0.71     |1.496 |1846 |
-|Middlesbrough |West Brom      |2  |0  |0.047    |0.074 |0.669    |1.306 |1845 |
-|Sunderland    |Tottenham      |0  |1  |0.047    |0.116 |1.17     |1.455 |1845 |
-|Swansea       |Southampton    |0  |1  |0.06     |0.117 |0.655    |0.963 |1845 |
-|Liverpool     |Chelsea        |1  |0  |0.049    |0.108 |0.811    |1.52  |1845 |
-|West Ham      |Man City       |0  |3  |0.04     |0.069 |0.887    |1.217 |1847 |
-|Man Utd       |Hull           |2  |0  |0.359    |0.15  |1.126    |0.872 |1849 |
-|Stoke         |Everton        |0  |0  |0.041    |0.086 |0.65     |1.394 |1846 |
-|Total         |               |-  |-  |-        |-     |8.789    |4.28  |1851 |
+|Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Arsenal       |0  |1  |0.045    |0.06  |0.952    |1.909 |2236 |
+|Crystal Palace |Sunderland    |1  |0  |0.178    |0.129 |0.829    |0.958 |2231 |
+|Everton        |Bournemouth   |0  |0  |0.016    |0.064 |1.015    |1.949 |2234 |
+|Hull           |Liverpool     |0  |2  |0.161    |0.113 |0.897    |0.878 |2233 |
+|Southampton    |West Ham      |0  |1  |0.047    |0.064 |0.879    |1.913 |2232 |
+|Watford        |Burnley       |0  |1  |0.05     |0.087 |0.941    |1.677 |2231 |
+|West Brom      |Stoke         |1  |0  |0.09     |0.123 |0.635    |0.986 |2231 |
+|Tottenham      |Middlesbrough |2  |0  |0.317    |0.155 |1.077    |0.919 |2231 |
+|Man City       |Swansea       |1  |0  |0.045    |0.085 |1.132    |1.244 |2216 |
+|Leicester      |Man Utd       |0  |1  |0.082    |0.134 |0.853    |0.964 |2217 |
+|Total          |              |-  |-  |-        |-     |9.21     |4.46  |2236 |
 
 </sub>
 
