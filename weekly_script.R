@@ -11,7 +11,7 @@ path <- "~/Stats/"
 setwd(paste0(path, "ShearerBot"))
 
 # set the week and some local directories to store output:
-week <- "25"
+week <- "26"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
 betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 

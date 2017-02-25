@@ -5,25 +5,23 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 25
+Week = 26
 
-2017-02-10 22:15:31
+2017-02-24 23:52:44
 <sub>
 
 
-|Home          |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-------------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Arsenal       |Hull           |4  |0  |0.039    |0.064 |1.004    |1.13  |2421 |
-|Man Utd       |Watford        |2  |0  |0.32     |0.151 |1.077    |0.906 |2420 |
-|Middlesbrough |Everton        |2  |1  |0.049    |0.062 |1.027    |1.94  |2419 |
-|Stoke         |Crystal Palace |0  |1  |0.046    |0.075 |1.063    |2.039 |2419 |
-|Sunderland    |Southampton    |0  |2  |0.045    |0.093 |0.858    |1.407 |2418 |
-|West Ham      |West Brom      |0  |1  |0.051    |0.084 |1.006    |1.688 |2418 |
-|Liverpool     |Tottenham      |1  |0  |0.045    |0.099 |0.818    |1.458 |2419 |
-|Burnley       |Chelsea        |0  |1  |0.077    |0.148 |0.983    |0.951 |2404 |
-|Swansea       |Leicester      |0  |2  |0.027    |0.047 |1.078    |1.838 |2403 |
-|Bournemouth   |Man City       |0  |1  |0.045    |0.088 |1.021    |1.32  |2399 |
-|Total         |               |-  |-  |-        |-     |9.935    |4.8   |2421 |
+|Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Chelsea        |Swansea       |2  |0  |0.292    |0.151 |1.074    |0.909 |2480 |
+|Crystal Palace |Middlesbrough |0  |1  |0.063    |0.094 |0.911    |1.687 |2476 |
+|Everton        |Sunderland    |2  |0  |0.282    |0.116 |0.925    |0.874 |2475 |
+|Hull           |Burnley       |0  |1  |0.053    |0.089 |0.96     |1.689 |2472 |
+|West Brom      |Bournemouth   |0  |0  |0.037    |0.083 |1.195    |2.12  |2472 |
+|Watford        |West Ham      |0  |0  |0.041    |0.083 |0.643    |1.375 |2474 |
+|Tottenham      |Stoke         |2  |0  |0.287    |0.118 |0.893    |0.896 |2466 |
+|Leicester      |Liverpool     |0  |0  |0.017    |0.061 |0.94     |1.908 |2464 |
+|Total          |              |-  |-  |-        |-     |7.541    |4.26  |2480 |
 
 </sub>
 
