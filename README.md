@@ -5,23 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 26
+Week = 27
 
-2017-02-24 23:52:44
+2017-03-03 23:27:15
 <sub>
 
 
-|Home           |Away          |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-------------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Chelsea        |Swansea       |2  |0  |0.292    |0.151 |1.074    |0.909 |2480 |
-|Crystal Palace |Middlesbrough |0  |1  |0.063    |0.094 |0.911    |1.687 |2476 |
-|Everton        |Sunderland    |2  |0  |0.282    |0.116 |0.925    |0.874 |2475 |
-|Hull           |Burnley       |0  |1  |0.053    |0.089 |0.96     |1.689 |2472 |
-|West Brom      |Bournemouth   |0  |0  |0.037    |0.083 |1.195    |2.12  |2472 |
-|Watford        |West Ham      |0  |0  |0.041    |0.083 |0.643    |1.375 |2474 |
-|Tottenham      |Stoke         |2  |0  |0.287    |0.118 |0.893    |0.896 |2466 |
-|Leicester      |Liverpool     |0  |0  |0.017    |0.061 |0.94     |1.908 |2464 |
-|Total          |              |-  |-  |-        |-     |7.541    |4.26  |2480 |
+|Home       |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Man Utd    |Bournemouth    |1  |0  |0.046    |0.116 |1.241    |1.423 |2393 |
+|Leicester  |Hull           |0  |0  |0.025    |0.082 |1.138    |2.104 |2388 |
+|Stoke      |Middlesbrough  |0  |1  |0.041    |0.075 |0.945    |2.009 |2387 |
+|Swansea    |Burnley        |0  |2  |0.012    |0.037 |0.847    |1.689 |2385 |
+|Watford    |Southampton    |0  |1  |0.063    |0.136 |0.72     |1.009 |2386 |
+|West Brom  |Crystal Palace |0  |1  |0.05     |0.091 |0.974    |1.699 |2385 |
+|Liverpool  |Arsenal        |1  |0  |0.047    |0.083 |0.783    |1.353 |2387 |
+|Tottenham  |Everton        |3  |0  |0.032    |0.063 |0.84     |1.181 |2373 |
+|Sunderland |Man City       |0  |1  |0.04     |0.096 |1.133    |1.329 |2375 |
+|West Ham   |Chelsea        |0  |0  |0.016    |0.068 |1.021    |1.979 |2372 |
+|Total      |               |-  |-  |-        |-     |9.642    |5.11  |2393 |
 
 </sub>
 
