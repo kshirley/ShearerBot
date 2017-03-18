@@ -5,20 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 28
+Week = 29
 
-2017-03-08 00:50:13
+2017-03-18 01:29:15
 <sub>
 
 
-|Home        |Away      |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:-----------|:---------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|Man City    |Stoke     |1  |0  |0.043    |0.098 |1.184    |1.319 |1693 |
-|Bournemouth |West Ham  |0  |1  |0.043    |0.071 |0.619    |1.285 |1519 |
-|Everton     |West Brom |0  |0  |0.029    |0.086 |1.108    |2.121 |1519 |
-|Hull        |Swansea   |2  |0  |0.046    |0.07  |0.656    |1.274 |1519 |
-|Liverpool   |Burnley   |2  |0  |0.282    |0.137 |1.058    |0.871 |1544 |
-|Total       |          |-  |-  |-        |-     |4.625    |3.2   |1693 |
+|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|West Brom      |Arsenal     |0  |3  |0.041    |0.067 |0.841    |1.211 |2285 |
+|Crystal Palace |Watford     |0  |1  |0.05     |0.074 |0.806    |1.584 |2276 |
+|Everton        |Hull        |2  |0  |0.317    |0.126 |0.905    |0.917 |2274 |
+|Stoke          |Chelsea     |0  |0  |0.03     |0.088 |1.155    |2.142 |2276 |
+|Sunderland     |Burnley     |1  |0  |0.132    |0.107 |0.591    |0.941 |2272 |
+|West Ham       |Leicester   |2  |1  |0.208    |0.092 |0.578    |0.892 |2272 |
+|Bournemouth    |Swansea     |3  |1  |0.04     |0.056 |0.683    |1.154 |2271 |
+|Middlesbrough  |Man Utd     |0  |0  |0.047    |0.093 |1.173    |2.181 |2252 |
+|Tottenham      |Southampton |0  |0  |0.023    |0.069 |1.005    |1.983 |2254 |
+|Man City       |Liverpool   |1  |0  |0.046    |0.087 |0.826    |1.37  |2256 |
+|Total          |            |-  |-  |-        |-     |8.563    |4.79  |2285 |
 
 </sub>
 
