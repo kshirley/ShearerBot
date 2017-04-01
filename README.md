@@ -5,25 +5,25 @@ On the web: http://www.predictthepremiership.com/profile/index/30978
 
 Latest Predictions:
 
-Week = 29
+Week = 30
 
-2017-03-18 01:29:15
+2017-04-01 01:35:00
 <sub>
 
 
-|Home           |Away        |H  |A  |% Picked |Prob  |Expected |SD    |n    |
-|:--------------|:-----------|:--|:--|:--------|:-----|:--------|:-----|:----|
-|West Brom      |Arsenal     |0  |3  |0.041    |0.067 |0.841    |1.211 |2285 |
-|Crystal Palace |Watford     |0  |1  |0.05     |0.074 |0.806    |1.584 |2276 |
-|Everton        |Hull        |2  |0  |0.317    |0.126 |0.905    |0.917 |2274 |
-|Stoke          |Chelsea     |0  |0  |0.03     |0.088 |1.155    |2.142 |2276 |
-|Sunderland     |Burnley     |1  |0  |0.132    |0.107 |0.591    |0.941 |2272 |
-|West Ham       |Leicester   |2  |1  |0.208    |0.092 |0.578    |0.892 |2272 |
-|Bournemouth    |Swansea     |3  |1  |0.04     |0.056 |0.683    |1.154 |2271 |
-|Middlesbrough  |Man Utd     |0  |0  |0.047    |0.093 |1.173    |2.181 |2252 |
-|Tottenham      |Southampton |0  |0  |0.023    |0.069 |1.005    |1.983 |2254 |
-|Man City       |Liverpool   |1  |0  |0.046    |0.087 |0.826    |1.37  |2256 |
-|Total          |            |-  |-  |-        |-     |8.563    |4.79  |2285 |
+|Home        |Away           |H  |A  |% Picked |Prob  |Expected |SD    |n    |
+|:-----------|:--------------|:--|:--|:--------|:-----|:--------|:-----|:----|
+|Liverpool   |Everton        |1  |0  |0.049    |0.098 |0.933    |1.423 |2471 |
+|Burnley     |Tottenham      |0  |1  |0.072    |0.134 |0.835    |0.97  |2461 |
+|Chelsea     |Crystal Palace |2  |0  |0.311    |0.151 |1.035    |0.932 |2464 |
+|Hull        |West Ham       |2  |0  |0.044    |0.054 |0.595    |1.15  |2462 |
+|Leicester   |Stoke          |0  |0  |0.022    |0.082 |1.173    |2.104 |2461 |
+|Man Utd     |West Brom      |2  |0  |0.294    |0.15  |1.005    |0.947 |2463 |
+|Watford     |Sunderland     |0  |1  |0.054    |0.068 |0.799    |1.562 |2462 |
+|Southampton |Bournemouth    |3  |0  |0.026    |0.065 |0.833    |1.199 |2458 |
+|Swansea     |Middlesbrough  |0  |0  |0.049    |0.092 |1.179    |2.175 |2442 |
+|Arsenal     |Man City       |0  |1  |0.029    |0.073 |0.736    |1.289 |2445 |
+|Total       |               |-  |-  |-        |-     |9.123    |4.56  |2471 |
 
 </sub>
 

@@ -11,7 +11,7 @@ path <- "~/Stats/"
 setwd(paste0(path, "ShearerBot"))
 
 # set the week and some local directories to store output:
-week <- "29"
+week <- "30"
 ptp.out.dir <- paste0(path, "ptp/ptp-raw-2016")
 betfair.out.dir <- paste0(path, "ptp/betfair-raw-2016")
 betfair.id.input.file <- file.path(path, "ptp/betfair-id-2016", 
@@ -127,6 +127,7 @@ cat("\n\n", writeup, "\n", sep = "\n", file = "README.md", append = TRUE)
 # Add, commit, and push the README.md file to the repo.
 # Enter the picks manually online
 
+# cd ~/Stats/ShearerBot/
 # git commit -a -m "updated predictions"
 # git push origin master
 
